@@ -1,0 +1,3975 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hostifybooking 1.0\n"
+"POT-Creation-Date: 2024-07-28 10:37+0300\n"
+"PO-Revision-Date: 2024-07-28 10:43+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: wpcs\n"
+"X-Poedit-SearchPathExcluded-2: inc/nuxy\n"
+"X-Poedit-SearchPathExcluded-3: node_modules\n"
+
+#: admin/class-hostifybooking-admin.php:88
+msgid "Hostify cached data cleared"
+msgstr "Кеши Hostify очищены"
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:271
+#, php-format
+msgid "%s is missing in the configuration array"
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:341
+msgid "Irks! An un-known error has occurred."
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:631
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:648
+#: inc/class-hostifybooking-loader.php:668
+#: inc/class-hostifybooking-loader.php:676
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:695
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:699
+msgid "Plugin Options"
+msgstr "Основные настройки"
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:1303
+msgid "ERROR:"
+msgstr "ОШИБКА:"
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:1304
+msgid "This field class is not available!"
+msgstr "This field class is not available!"
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:1367
+msgid "Listings links updated"
+msgstr "Адреса листингов обновлены"
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:1371
+msgid "Saving..."
+msgstr "Сохраняем..."
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:1371
+msgid "Saved Successfully"
+msgstr "Сохранено"
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:1388
+msgid "settings search..."
+msgstr "быстрый поиск..."
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:1393
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:1406
+#: inc/class-hostifybooking-loader.php:1093
+msgid "Save Settings"
+msgstr "Сохранить"
+
+#: admin/exopite-simple-options/fields/attached.php:30
+#, php-format
+msgid "There is no attachment with type %1$s for this %2$s."
+msgstr "There is no attachment with type %1$s for this %2$s."
+
+#: admin/exopite-simple-options/fields/backup.php:39
+msgid "copy-paste your backup string here"
+msgstr "copy-paste your backup string here"
+
+#: admin/exopite-simple-options/fields/backup.php:40
+msgid "Are you sure, you want to overwrite existing options?"
+msgstr "Вы уверены? Все текущие изменения будут переписаны."
+
+#: admin/exopite-simple-options/fields/backup.php:40
+msgid "Import a Backup"
+msgstr "Import a Backup"
+
+#: admin/exopite-simple-options/fields/backup.php:44
+msgid "Download Backup"
+msgstr "Download Backup"
+
+#: admin/exopite-simple-options/fields/backup.php:47
+msgid "Please be sure for reset all of framework options."
+msgstr "Please be sure for reset all of framework options."
+
+#: admin/exopite-simple-options/fields/backup.php:48
+msgid "Are you sure, you want to reset all options?"
+msgstr "Вы уверены?"
+
+#: admin/exopite-simple-options/fields/backup.php:48
+msgid "Reset All Options"
+msgstr "Сбросить все настройки"
+
+#: admin/exopite-simple-options/fields/gallery.php:25
+msgid "Add to gallery"
+msgstr "Добавить в галерею"
+
+#: admin/exopite-simple-options/fields/gallery.php:26
+msgid "Select images for gallery"
+msgstr "Выберите картинки для галереи"
+
+#: admin/exopite-simple-options/fields/gallery.php:27
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:33
+msgid "Add"
+msgstr "Добавить"
+
+#: admin/exopite-simple-options/fields/group.php:348
+msgid "Max items:"
+msgstr "Макс:"
+
+#: admin/exopite-simple-options/fields/image.php:77
+msgid "Add Image"
+msgstr "Добавить"
+
+#: admin/exopite-simple-options/fields/typography.php:87
+msgid "Web Safe Fonts"
+msgstr "Web Safe Fonts"
+
+#: admin/exopite-simple-options/fields/typography.php:93
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: admin/exopite-simple-options/fields/typography.php:186
+msgid "Error! Can not load json file."
+msgstr "Error! Can not load json file."
+
+#: admin/exopite-simple-options/fields/upload.php:71
+msgid "Drop files here"
+msgstr "Перетащите файлы сюда"
+
+#: admin/exopite-simple-options/fields/upload.php:81
+msgid "Select files"
+msgstr "Выбрать файлы"
+
+#: admin/exopite-simple-options/fields/upload.php:84
+msgid "Upload"
+msgstr "Загрузка"
+
+#: admin/exopite-simple-options/fields/upload.php:88
+msgid "Processing dropped files..."
+msgstr "Обработка..."
+
+#: admin/exopite-simple-options/fields/upload.php:106
+#: admin/exopite-simple-options/fields/upload.php:138
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:133
+msgid "Cancel"
+msgstr "Отмена"
+
+#: admin/exopite-simple-options/fields/upload.php:108
+msgid "Retry"
+msgstr "Повтор"
+
+#: admin/exopite-simple-options/fields/upload.php:110
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:92
+msgid "Delete"
+msgstr "Удвлить"
+
+#: admin/exopite-simple-options/fields/upload.php:119
+#: lang/strings_to_translate.php:45 tpl/element/booking-search-popup.php:162
+#: tpl/element/guests-block.php:138
+msgid "Close"
+msgstr "Закрыть"
+
+#: admin/exopite-simple-options/fields/upload.php:127
+#: lang/strings_to_translate.php:138 tpl/user/booking-manage.php:199
+#: tpl/user/booking-manage.php:203 tpl/user/booking-manage.php:207
+#: tpl/user/booking-manage.php:211
+msgid "No"
+msgstr "Нет"
+
+#: admin/exopite-simple-options/fields/upload.php:129
+#: lang/strings_to_translate.php:224 tpl/listing/listing-info-prices.php:41
+#: tpl/user/booking-manage.php:199 tpl/user/booking-manage.php:203
+#: tpl/user/booking-manage.php:207 tpl/user/booking-manage.php:211
+msgid "Yes"
+msgstr "Да"
+
+#: admin/exopite-simple-options/fields/upload.php:140
+msgid "Ok"
+msgstr "Ok"
+
+#: admin/exopite-simple-options/fields/upload.php:180
+msgid "Max amount of files: "
+msgstr "Макс кол-во файлов: "
+
+#: admin/exopite-simple-options/fields/upload.php:181
+msgid "Max file upload size: "
+msgstr "Макс размер файла: "
+
+#: admin/exopite-simple-options/fields/video.php:63
+msgid "Add Video"
+msgstr "Добавить видео"
+
+#: admin/menu.php:55
+msgid "Read me first"
+msgstr ""
+
+#: admin/menu.php:71
+msgid "API settings"
+msgstr "Настройки API"
+
+#: admin/menu.php:75
+msgid "API URL"
+msgstr "API URL"
+
+#: admin/menu.php:82
+msgid "API WPKEY"
+msgstr ""
+
+#: admin/menu.php:96
+msgid "Pages"
+msgstr ""
+
+#: admin/menu.php:100
+msgid "Listings page"
+msgstr "Страница списка листингов"
+
+#: admin/menu.php:101
+msgid "or listings search result [hfy_listings]"
+msgstr ""
+
+#: admin/menu.php:113
+msgid "Page to show list of Listings or search result"
+msgstr ""
+
+#: admin/menu.php:114 admin/menu.php:137 admin/menu.php:159 admin/menu.php:181
+#: admin/menu.php:203 admin/menu.php:225 admin/menu.php:247
+msgid "Create new page"
+msgstr "Создать новую страницу"
+
+#: admin/menu.php:117 admin/menu.php:140 admin/menu.php:162 admin/menu.php:184
+#: admin/menu.php:206 admin/menu.php:228 admin/menu.php:250
+msgid "Edit page"
+msgstr "Редактировать"
+
+#: admin/menu.php:123
+msgid "Single listing page"
+msgstr ""
+
+#: admin/menu.php:124
+msgid "single page [hfy_listing]"
+msgstr ""
+
+#: admin/menu.php:136
+msgid "This page will be used in links to certain Listing"
+msgstr ""
+
+#: admin/menu.php:145 admin/menu.php:793
+msgid "Payment page"
+msgstr "Форма оплаты"
+
+#: admin/menu.php:158
+msgid "In case you use the direct payment acceptance"
+msgstr "В случае если вы используете прием платежей на этом сайте"
+
+#: admin/menu.php:167
+msgid "Payment charge page"
+msgstr "Результат оплаты"
+
+#: admin/menu.php:180
+msgid "To show the payment result"
+msgstr ""
+
+#: admin/menu.php:180
+msgid "Applicable to NetPay"
+msgstr "Применимо к NetPay"
+
+#: admin/menu.php:189
+msgid "User bookings list page"
+msgstr ""
+
+#: admin/menu.php:202
+msgid "To show list of user bookings"
+msgstr "Показать список резервация пользователя"
+
+#: admin/menu.php:211
+msgid "User booking details page"
+msgstr ""
+
+#: admin/menu.php:224
+msgid "To show single booking details"
+msgstr "Показать данные отдельной резервации"
+
+#: admin/menu.php:233
+msgid "User wishlist page"
+msgstr "Список избранных листингов"
+
+#: admin/menu.php:246
+msgid "To show a list of Listings that user was marked"
+msgstr "Показать список листингов, которые выбрал пользователь"
+
+#: admin/menu.php:289
+msgid "Options"
+msgstr "Опции"
+
+#: admin/menu.php:294
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:765
+#: lang/strings_to_translate.php:175 tpl/element/booking-search-popup.php:163
+#: tpl/element/booking-search.php:177
+msgid "Search"
+msgstr "Поиск"
+
+#: admin/menu.php:300
+msgid "Location selector options"
+msgstr ""
+
+#: admin/menu.php:312
+msgid "Location selector placeholder"
+msgstr ""
+
+#: admin/menu.php:315 inc/defines.php:63 inc/defines.php:254
+msgid "Select location"
+msgstr ""
+
+#: admin/menu.php:316
+msgid "Default text if nothing is selected"
+msgstr ""
+
+#: admin/menu.php:319
+msgid "Tags menu"
+msgstr ""
+
+#: admin/menu.php:322
+msgid "Name of WP menu (<a href=\""
+msgstr ""
+
+#: admin/menu.php:325
+msgid "Live search"
+msgstr "Живой поиск"
+
+#: admin/menu.php:329
+msgid "Filter locations while typing in selector"
+msgstr ""
+
+#: admin/menu.php:332
+msgid "Search for the exact number of bedrooms"
+msgstr "Поиск точного количества спален"
+
+#: admin/menu.php:336
+msgid ""
+"If enabled, only listings with the specified number of bedrooms will be "
+"shown in the search results."
+msgstr ""
+
+#: admin/menu.php:337
+msgid ""
+"Otherwise, by default, the result includes the specified number or more."
+msgstr ""
+
+#: admin/menu.php:340
+msgid "Show \"Studio\" option"
+msgstr "Показывать опцию \"Студия\""
+
+#: admin/menu.php:344
+msgid "If enabled, \"Studio\" option will be added to the bedroom selection."
+msgstr ""
+
+#: admin/menu.php:347
+msgid "Default term mode"
+msgstr "Режим резерваций по умолчанию"
+
+#: admin/menu.php:357
+msgid "Show long/short terms selector"
+msgstr "Селектор короткие/длительные резервации"
+
+#: admin/menu.php:361
+msgid ""
+"If enabled, the \"short-term\" and \"long-term bookings\" will be added the "
+"search form."
+msgstr ""
+"Если включено, то к форме поиска будет добавлена возможность выбора типа "
+"резерваций."
+
+#: admin/menu.php:365
+msgid "Show infants selector"
+msgstr ""
+
+#: admin/menu.php:371
+msgid "Max infants number"
+msgstr ""
+
+#: admin/menu.php:377
+msgid "Show pets selector"
+msgstr "Показывать выбор питомцев"
+
+#: admin/menu.php:383
+msgid "Max pets number"
+msgstr "Макс количество питомцев"
+
+#: admin/menu.php:390
+msgid "Max guests number"
+msgstr "Макс количество гостей"
+
+#: admin/menu.php:397 lang/strings_to_translate.php:5
+msgid "Advanced search"
+msgstr "Расширенный поиск"
+
+#: admin/menu.php:403
+msgid "Short list of amenities"
+msgstr "Короткий список удобств"
+
+#: admin/menu.php:407
+msgid "Use short list of predefined amenities."
+msgstr ""
+
+#: admin/menu.php:408
+msgid ""
+"ATTENTION: If disabled, all available amenities will be shown, this can be a "
+"huge list, so it is recommended to use the options below in this case."
+msgstr ""
+
+#: admin/menu.php:411 admin/menu.php:514
+msgid "Select amenities to show"
+msgstr "Удобства, которые нужно показать"
+
+#: admin/menu.php:415
+msgid "Only selected amenities will be used in the advanced search form"
+msgstr ""
+
+#: admin/menu.php:422
+msgid "List of amenities to show (ID separated by comma):"
+msgstr "Список удобств для показа (ID, разделенные запятыми):"
+
+#: admin/menu.php:425
+msgid "Amenities groups"
+msgstr "Группы"
+
+#: admin/menu.php:429
+msgid "Show amenities groups"
+msgstr "Группировать удобства"
+
+#: admin/menu.php:432
+msgid "Hide 'Other' group"
+msgstr "Скрыть группу \"Другие\""
+
+#: admin/menu.php:436
+msgid "Do not show 'Other' group in advanced search"
+msgstr ""
+
+#: admin/menu.php:439
+msgid "Pets selector in advanced"
+msgstr ""
+
+#: admin/menu.php:443
+msgid "Show Pets selector in advanced search form instead of Guests dialog"
+msgstr ""
+
+#: admin/menu.php:447
+msgid "Map"
+msgstr ""
+
+#: admin/menu.php:453
+msgid "Map tracking"
+msgstr "Следить за перемещением карты"
+
+#: admin/menu.php:457
+msgid "Show/hide listings in search results while map moving"
+msgstr ""
+"Показывать/скрывать листинги в результатах поиска при перемещении карты"
+
+#: admin/menu.php:460
+msgid "Map price"
+msgstr "Цены на карте"
+
+#: admin/menu.php:464
+msgid "Show price labels on the map instead of pins"
+msgstr "Показывать на карте цены вместо указателей"
+
+#: admin/menu.php:467
+msgid "Group to clusters"
+msgstr ""
+
+#: admin/menu.php:471
+msgid "Display many closely spaced markers as one cluster on the map"
+msgstr ""
+
+#: admin/menu.php:474
+msgid "Show area"
+msgstr ""
+
+#: admin/menu.php:478
+msgid "Show the approximate area instead of the exact location point"
+msgstr ""
+
+#: admin/menu.php:482 admin/menu.php:737
+msgid "Listings"
+msgstr "Листинги"
+
+#: admin/menu.php:488
+msgid "Items (listings) per page"
+msgstr "Количество листингов на странице поиска"
+
+#: admin/menu.php:494
+msgid "Default sorting"
+msgstr ""
+
+#: admin/menu.php:508
+msgid "Listing"
+msgstr ""
+
+#: admin/menu.php:517
+msgid ""
+"Define a list of amenities to show (IDs separated with a comma). All others "
+"will be hidden."
+msgstr ""
+
+#: admin/menu.php:521
+msgid "Amenities with images first"
+msgstr "Сначала с картинкой"
+
+#: admin/menu.php:525
+msgid "Amenities with images will be shown first at the top of the list"
+msgstr "Показывать первыми те, у которых есть иконка"
+
+#: admin/menu.php:528
+msgid "Amenities with images only"
+msgstr "Удобства только с картинками"
+
+#: admin/menu.php:532
+msgid "Only amenities with images will be displayed"
+msgstr "Показывать только те удобства, для которых заданы картинки"
+
+#: admin/menu.php:535
+msgid "Use new guests template"
+msgstr ""
+
+#: admin/menu.php:539
+msgid "Use new dialog for guests select: adults, children, infants, pets."
+msgstr ""
+
+#: admin/menu.php:543 tpl/payment/payment-netpay.php:12
+#: tpl/payment/payment-paypal.php:12 tpl/payment/payment.php:12
+msgid "Payment"
+msgstr "Оплата"
+
+#: admin/menu.php:549
+msgid "Show discount"
+msgstr "Показывать поле для скидки"
+
+#: admin/menu.php:553
+msgid "Show discount/coupon controls"
+msgstr "Показать поле для скидки/купона"
+
+#: admin/menu.php:557
+msgid "Redirect on payment success"
+msgstr ""
+
+#: admin/menu.php:571
+msgid "Custom URL"
+msgstr ""
+
+#: admin/menu.php:595 inc/seo.php:52
+msgid "SEO"
+msgstr ""
+
+#: admin/menu.php:599
+msgid "SEO for listings"
+msgstr "SEO для листингов"
+
+#: admin/menu.php:606
+msgid "Listing slug"
+msgstr ""
+
+#: admin/menu.php:629
+msgid "NOINDEX for selected listings"
+msgstr ""
+
+#: admin/menu.php:636
+msgid "Redirect 301"
+msgstr ""
+
+#: admin/menu.php:640
+msgid ""
+"If the requested listing is not found, the page will be redirected to the "
+"specified URL, instead of \"No listing\" message"
+msgstr ""
+
+#: admin/menu.php:641
+msgid "Clear this field if you do not need to do this check"
+msgstr ""
+
+#: admin/menu.php:644
+msgid "GA Events"
+msgstr ""
+
+#: admin/menu.php:648
+msgid ""
+"Send custom events for Google Analytics using the Google tag (gtag) or "
+"Google Tag Manager (GTM)."
+msgstr ""
+
+#: admin/menu.php:655
+msgid ""
+"<b>NOTES</b>: <ol><li>You need to add the gtag.js or gtm snippet. Please "
+"refer: <a href=\"https://developers.google.com/analytics/devguides/"
+"collection/ga4/events?client_type=gtag\" target=\"_blank\">Set up events for "
+"Google tag</a>.</li><li>You can install one of ready-to-use plugins: <a href="
+"\""
+msgstr ""
+
+#: admin/menu.php:665
+msgid "Admin options"
+msgstr "Администратор"
+
+#: admin/menu.php:669
+msgid "Turn off Boostrap"
+msgstr "Не загружать Boostrap"
+
+#: admin/menu.php:673
+msgid "Do not load Bootstrap library that comes with the plugin"
+msgstr ""
+"Отключить загрузку библиотеки Bootstrap, которая поставляется с этим плагином"
+
+#: admin/menu.php:674 tpl/payment/_success.php:74
+#: tpl/payment/stripe-form-3ds.php:39 tpl/payment/stripe-form.php:35
+msgid "Note"
+msgstr "Комментарий"
+
+#: admin/menu.php:674
+msgid ""
+"This plugin uses the Bootstrap CSS framework. If there are any problems or "
+"conflicts with the installed plugins or theme, you can prevent the Hostiy "
+"plugin from loading this framework."
+msgstr ""
+
+#: admin/menu.php:687
+msgid "Disable data caching"
+msgstr "Отключить кеширование"
+
+#: admin/menu.php:691
+msgid "Do not use cache - it can be useful for testing or troubleshooting"
+msgstr ""
+
+#: admin/menu.php:692
+msgid ""
+"The plugin uses data caching both on the Hostify API and WordPress side. "
+"Sometimes during development and configuration process, it can interfere or "
+"confuse."
+msgstr ""
+
+#: admin/menu.php:695
+msgid "Show links on admin bar"
+msgstr "Показывать ссылки в админбаре"
+
+#: admin/menu.php:699
+msgid "Show links for quick access"
+msgstr "Показать линк для быстрого доступа к настройкам Hostify"
+
+#: admin/menu.php:702
+msgid "Custom template path"
+msgstr ""
+
+#: admin/menu.php:705
+msgid ""
+"You can place your templates not only in the current theme folder, but also "
+"in another place on the server that is available for you. In this case, you "
+"can specify the path to this folder."
+msgstr ""
+"Вы можете разместить ваши шаблоны не только в папке текущей темы, но и в "
+"любом другом месте на сервере, куда вы имеете доступ. В этом случае, вы "
+"можете указать точный путь к этим файлам."
+
+#: admin/menu.php:708
+msgid "Use API v3"
+msgstr ""
+
+#: admin/menu.php:718
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: admin/menu.php:727
+msgid ""
+"Copy the shortcode and place it on post, page, text, code widget, etc. Refer "
+"the plugin Readme and documentation for more info about shortcodes and "
+"parameters."
+msgstr ""
+
+#: admin/menu.php:731
+msgid "Complex:"
+msgstr "Составные:"
+
+#: admin/menu.php:740
+msgid "List of Listings, show the search result"
+msgstr ""
+
+#: admin/menu.php:745
+msgid "Listings map"
+msgstr "Карта"
+
+#: admin/menu.php:748
+msgid "Show listings on map"
+msgstr "Показывает географическое положение на карте"
+
+#: admin/menu.php:753
+msgid "Single listing"
+msgstr "Отдельный листинг"
+
+#: admin/menu.php:756
+msgid "Show single listing by ID"
+msgstr "Показать листинг по ID"
+
+#: admin/menu.php:761
+msgid "Search form"
+msgstr "Форма поиска"
+
+#: admin/menu.php:764
+msgid "Listing search form"
+msgstr "Форма поиска"
+
+#: admin/menu.php:769
+msgid "Selected listings"
+msgstr "Выбранные листинги"
+
+#: admin/menu.php:772
+msgid "Show listings by ID, city ID"
+msgstr "Показать листинги по ID, по ID города"
+
+#: admin/menu.php:777
+msgid "Top listings"
+msgstr "Топ листинги"
+
+#: admin/menu.php:780
+msgid "Show top listings"
+msgstr "Показать избранные листинги"
+
+#: admin/menu.php:785
+msgid "Recent listings"
+msgstr ""
+
+#: admin/menu.php:788
+msgid "Show recent listings"
+msgstr ""
+
+#: admin/menu.php:796
+msgid "Show payment summary and form"
+msgstr "Инфо по оплате и форма"
+
+#: admin/menu.php:810
+msgid "Predefined extras block"
+msgstr ""
+
+#: admin/menu.php:811 admin/menu.php:821
+msgid "for payment page"
+msgstr ""
+
+#: admin/menu.php:820
+msgid "Optional extras block with checkboxes"
+msgstr ""
+
+#: admin/menu.php:835
+msgid "Listing parts:"
+msgstr "Части листинга:"
+
+#: admin/menu.php:841
+msgid "Booking form"
+msgstr "Форма заказа"
+
+#: admin/menu.php:844
+msgid "Show booking form for listing"
+msgstr "Форма заказа для листинга"
+
+#: admin/menu.php:850
+msgid "Title"
+msgstr "Заголовок"
+
+#: admin/menu.php:853
+msgid "Show listing title"
+msgstr "Заголовок листинга"
+
+#: admin/menu.php:859 lang/strings_to_translate.php:83
+msgid "Gallery"
+msgstr "Галерея"
+
+#: admin/menu.php:862
+msgid "Show all images for one listing"
+msgstr "Показать все фото листинга"
+
+#: admin/menu.php:867
+msgid "Main image"
+msgstr "Основная картинка"
+
+#: admin/menu.php:870
+msgid "Show main image for one listing"
+msgstr "Показывать главную картинку для отдельного листинга"
+
+#: admin/menu.php:876
+msgid "Info"
+msgstr "Инфо"
+
+#: admin/menu.php:879
+msgid "Show info block for listing"
+msgstr "Основной текст листинга"
+
+#: admin/menu.php:884
+msgid "Part of hfy_listing_info"
+msgstr ""
+
+#: admin/menu.php:938
+msgid "Room type"
+msgstr "Тип комнаты"
+
+#: admin/menu.php:941
+msgid "Show room type info for listing"
+msgstr "Тип комнаты для листинга"
+
+#: admin/menu.php:946
+msgid "Facilities"
+msgstr "Оборудование"
+
+#: admin/menu.php:949
+msgid "Show listing facilities for listing"
+msgstr "Список оборудования и приборов"
+
+#: admin/menu.php:954 lang/strings_to_translate.php:8
+#: tpl/element/booking-search-advanced.php:74
+#: tpl/element/booking-search-popup.php:103 tpl/listing/listing.php:17
+msgid "Amenities"
+msgstr "Удобства"
+
+#: admin/menu.php:957
+msgid "Show listing amenities for listing"
+msgstr "Список удобств"
+
+#: admin/menu.php:962 tpl/listing/listing-reviews-summary.php:56
+#: tpl/listing/listing.php:22
+msgid "Location"
+msgstr "Локация"
+
+#: admin/menu.php:965
+msgid ""
+"Show listing location on map. And there is a synonym: [hfy_listing_map]."
+msgstr "Показать местоположение на карте. Синоним: [hfy_listing_map]."
+
+#: admin/menu.php:971
+msgid "Reviews summary"
+msgstr "Отзывы суммарно"
+
+#: admin/menu.php:974
+msgid "Show listing reviews summary"
+msgstr "Показать сводную информацию об отзывах"
+
+#: admin/menu.php:979
+msgid "Reviews count"
+msgstr "Отзывы количество"
+
+#: admin/menu.php:982
+msgid "Show listing reviews count number"
+msgstr "Показать количество отзывов"
+
+#: admin/menu.php:987
+msgid "Reviews comments"
+msgstr "Отзывы комментарии"
+
+#: admin/menu.php:990
+msgid "Show listing reviews comment"
+msgstr "Показать текст отзывов"
+
+#: admin/menu.php:995 tpl/listing/listing-virtual-tour.php:4
+msgid "Virtual tour"
+msgstr ""
+
+#: admin/menu.php:998
+msgid "Render the iframe with link to the virtual tour"
+msgstr ""
+
+#: admin/menu.php:1007
+msgid "Cities ID"
+msgstr "Коды городов"
+
+#: admin/menu.php:1012
+msgid "ID codes of available cities"
+msgstr "Коды городов"
+
+#: admin/menu.php:1021
+msgid "Changelog"
+msgstr "История изменений"
+
+#: admin/menu.php:1034
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin/menu.php:1041
+msgid "Initial setup"
+msgstr ""
+
+#: admin/menu.php:1041
+msgid "Guest area setup"
+msgstr ""
+
+#: inc/class-hostifybooking-loader.php:211
+msgid "No available properties for your selection."
+msgstr "Нет доступных вариантов."
+
+#: inc/class-hostifybooking-loader.php:1091
+msgid "Clear cache"
+msgstr "Очистить кеш"
+
+#: inc/class-hostifybooking-widget.php:53
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/helpers.php:335 tpl/user/booking-manage.php:183
+#: tpl/user/booking-manage.php:187
+msgid "Any time"
+msgstr "Любое время"
+
+#: inc/helpers/ListingHelper.php:26
+msgid "Entire home/flat"
+msgstr ""
+
+#: inc/helpers/ListingHelper.php:27
+msgid "Private room"
+msgstr ""
+
+#: inc/helpers/ListingHelper.php:28
+msgid "Shared room"
+msgstr ""
+
+#: inc/seo.php:43
+msgid "Hostify settings"
+msgstr "Настройки Hostify"
+
+#: inc/seo.php:56
+msgid "Apply SEO settings (such as a pretty URL) to the Listing on this page"
+msgstr ""
+
+#: inc/shortcodes/hfy-listing-amenities.php:13
+#: inc/shortcodes/hfy-listing-booking-form.php:14
+#: inc/shortcodes/hfy-listing-cancellation-policy.php:13
+#: inc/shortcodes/hfy-listing-facilities.php:13
+#: inc/shortcodes/hfy-listing-gallery.php:13
+#: inc/shortcodes/hfy-listing-image.php:13
+#: inc/shortcodes/hfy-listing-info-address.php:12
+#: inc/shortcodes/hfy-listing-info-guest-access.php:12
+#: inc/shortcodes/hfy-listing-info-house-rules.php:12
+#: inc/shortcodes/hfy-listing-info-interaction.php:12
+#: inc/shortcodes/hfy-listing-info-neighbourhood.php:12
+#: inc/shortcodes/hfy-listing-info-notes.php:12
+#: inc/shortcodes/hfy-listing-info-permit.php:17
+#: inc/shortcodes/hfy-listing-info-prices.php:17
+#: inc/shortcodes/hfy-listing-info-space.php:12
+#: inc/shortcodes/hfy-listing-info-summary.php:12
+#: inc/shortcodes/hfy-listing-info-transit.php:12
+#: inc/shortcodes/hfy-listing-info.php:13
+#: inc/shortcodes/hfy-listing-location.php:18
+#: inc/shortcodes/hfy-listing-reviews-comments.php:13
+#: inc/shortcodes/hfy-listing-reviews-count.php:13
+#: inc/shortcodes/hfy-listing-reviews-summary.php:13
+#: inc/shortcodes/hfy-listing-room-type.php:13
+#: inc/shortcodes/hfy-listing-title.php:13
+#: inc/shortcodes/hfy-listing-virtual-tour.php:13
+#: inc/shortcodes/hfy-listing.php:19 inc/shortcodes/hfy-payment.php:33
+msgid "No listing ID"
+msgstr "Нет ID листинга"
+
+#: inc/shortcodes/hfy-listing-gallery.php:41
+#, php-format
+msgid "price <span class=\"h3\">%s</span> for %s %s"
+msgstr ""
+
+#: inc/shortcodes/hfy-listing-gallery.php:44 lang/strings_to_translate.php:137
+#: tpl/element/price-block-accounting.php:19
+#: tpl/element/price-block-default.php:19 tpl/payment/preview-accounting.php:17
+#: tpl/payment/preview-default.php:23 tpl/user/booking-manage.php:50
+msgid "nights"
+msgstr "ночей"
+
+#: inc/shortcodes/hfy-listing-gallery.php:44
+#: inc/shortcodes/inc/make-listing-item-vars.php:38
+#: inc/shortcodes/inc/make-listing-tpl-vars.php:40
+#: lang/strings_to_translate.php:136
+msgid "night"
+msgstr "ночь"
+
+#: inc/shortcodes/hfy-payment-charge.php:14
+msgid "No reservation ID"
+msgstr "Нет ID резервации"
+
+#: inc/shortcodes/hfy-payment-charge.php:20
+msgid "No reservation found"
+msgstr "Резервация не найдена"
+
+#: inc/shortcodes/hfy-payment.php:96
+#: inc/shortcodes/inc/load-listing-price.php:17
+msgid "Listing price is not available"
+msgstr ""
+
+#: inc/shortcodes/hfy-payment.php:106
+msgid "Incorrect parameters"
+msgstr ""
+
+#: inc/shortcodes/hfy-payment.php:240
+msgid "Sorry, listing currency not supported by PayPal"
+msgstr ""
+
+#: inc/shortcodes/hfy-payment.php:259
+msgid "No payment service"
+msgstr ""
+
+#: inc/shortcodes/hfy-user-booking-manage.php:63
+#: inc/shortcodes/hfy-user-booking-manage.php:71
+msgid "Not found"
+msgstr "Не найдено"
+
+#: inc/shortcodes/hfy-user-bookings-list.php:17
+msgid "You are not logged in"
+msgstr ""
+
+#: inc/shortcodes/hfy-user-bookings-list.php:22
+msgid "You currently do not have any bookings yet"
+msgstr ""
+
+#: inc/shortcodes/inc/load-listing-seo.php:8
+#: inc/shortcodes/inc/load-listing.php:12
+#: inc/shortcodes/inc/load-top-listings.php:7
+msgid "Please try again later"
+msgstr ""
+
+#: inc/shortcodes/inc/load-listing-seo.php:12
+#: inc/shortcodes/inc/load-listing.php:16
+msgid "No listing"
+msgstr "Ничего нет"
+
+#: inc/shortcodes/inc/load-settings.php:16
+msgid "Is not active"
+msgstr "Не активно"
+
+#: inc/shortcodes/inc/make-listing-item-vars.php:32
+#: lang/strings_to_translate.php:206 tpl/element/price-block-accounting.php:103
+#: tpl/element/price-block-default.php:86 tpl/payment/preview.php:90
+#: tpl/user/booking-manage.php:111
+msgid "Total"
+msgstr "Всего"
+
+#: inc/shortcodes/inc/make-listing-item-vars.php:33
+#: lang/strings_to_translate.php:81
+msgid "From"
+msgstr "От"
+
+#: inc/shortcodes/inc/make-listing-item-vars.php:36
+#: lang/strings_to_translate.php:195
+msgid "stay"
+msgstr "проживание"
+
+#: inc/shortcodes/inc/make-listing-item-vars.php:38
+#: inc/shortcodes/inc/make-listing-tpl-vars.php:37
+#: lang/strings_to_translate.php:128
+msgid "month"
+msgstr "месяц"
+
+#: inc/shortcodes/inc/make-listing-tpl-vars.php:44
+#: tpl/listing/listing-booking-form-on-request.php:9
+msgid "Price on request"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ActionFactory.php:232
+msgid "Invalid action - must be a recurring action."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:60
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:75
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:76
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:89
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:19
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:30
+msgid "Scheduled Actions"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:225
+msgid "About"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:227
+#, php-format
+msgid "About Action Scheduler %s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:229
+msgid ""
+"Action Scheduler is a scalable, traceable job queue for background "
+"processing large sets of actions. Action Scheduler works by triggering an "
+"action hook to run at some time in the future. Scheduled actions can also be "
+"scheduled to run on a recurring schedule."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:237
+msgid "Columns"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:239
+msgid "Scheduled Action Columns"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:241
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:96
+msgid "Hook"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:241
+msgid "Name of the action hook that will be triggered."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:242
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:97
+msgid "Status"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:242
+msgid "Action statuses are Pending, Complete, Canceled, Failed"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:243
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:98
+msgid "Arguments"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:243
+msgid "Optional data array passed to the action hook."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:244
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:99
+msgid "Group"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:244
+msgid "Optional action group."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:245
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:100
+msgid "Recurrence"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:245
+msgid "The action's schedule frequency."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:246
+msgid "Scheduled"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:246
+msgid "The date/time the action is/was scheduled to run."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:247
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:102
+msgid "Log"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_AdminView.php:247
+msgid "Activity log for the action."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_DataController.php:137
+msgid "Attempting to reduce used memory..."
+msgstr ""
+
+#. translators: 1: action ID 2: schedule
+#: inc/vendors/action-scheduler/classes/ActionScheduler_InvalidActionException.php:21
+#, php-format
+msgid "Action [%1$s] has an invalid schedule: %2$s"
+msgstr ""
+
+#. translators: 1: action ID 2: arguments
+#: inc/vendors/action-scheduler/classes/ActionScheduler_InvalidActionException.php:40
+#, php-format
+msgid ""
+"Action [%1$s] has invalid arguments. It cannot be JSON decoded to an array. "
+"$args = %2$s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:101
+msgid "Scheduled Date"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:122
+msgid "Claim ID"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:129
+msgid "Run"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:130
+msgid "Process the action now as if it were run as part of a queue"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:134
+msgid "Cancel the action now to avoid it being run in future"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:224
+msgid "Now!"
+msgstr ""
+
+#. translators: %s: time interval
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:260
+#, php-format
+msgid "Every %s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:266
+msgid "Non-repeating"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:364
+msgid ""
+"It appears one or more database tables were missing. Attempting to re-create "
+"the missing table(s)."
+msgstr ""
+
+#. translators: %s: process URL
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:397
+#, php-format
+msgid ""
+"A new queue has begun processing. <a href=\"%s\">View actions in-progress "
+"&raquo;</a>"
+msgstr ""
+
+#. translators: %d: seconds
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:400
+#, php-format
+msgid "The next queue will begin processing in approximately %d seconds."
+msgstr ""
+
+#. translators: %s: action HTML
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:421
+#, php-format
+msgid "Successfully executed action: %s"
+msgstr ""
+
+#. translators: %s: action HTML
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:425
+#, php-format
+msgid "Successfully canceled action: %s"
+msgstr ""
+
+#. translators: %s: action HTML
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:429
+#, php-format
+msgid "Successfully processed change for action: %s"
+msgstr ""
+
+#. translators: 1: action HTML 2: action ID 3: error message
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:435
+#, php-format
+msgid "Could not process change for action: \"%1$s\" (ID: %2$d). Error: %3$s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:471
+msgid "async"
+msgstr ""
+
+#. translators: %s: date interval
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:485
+#, php-format
+msgid " (%s ago)"
+msgstr ""
+
+#. translators: %s: date interval
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:488
+#, php-format
+msgid " (%s)"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_ListTable.php:648
+msgid "Search hook, args and claim ID"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_QueueCleaner.php:60
+#, php-format
+msgid "It was not possible to determine a valid cut-off time: %s."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_QueueRunner.php:221
+msgid "Every minute"
+msgstr ""
+
+#. translators: %s: date interval
+#: inc/vendors/action-scheduler/classes/ActionScheduler_WPCommentCleaner.php:103
+#, php-format
+msgid "This data will be deleted in %s."
+msgstr ""
+
+#. translators: 1: next cleanup message 2: github issue URL
+#: inc/vendors/action-scheduler/classes/ActionScheduler_WPCommentCleaner.php:108
+#, php-format
+msgid ""
+"Action Scheduler has migrated data to custom tables; however, orphaned log "
+"entries exist in the WordPress Comments table. %1$s <a href=\"%2$s\">Learn "
+"more &raquo;</a>"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:111
+msgid "Action Scheduler"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:111
+msgid "This section shows details of Action Scheduler."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:114
+msgid "Version:"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:118
+msgid "Data store:"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:122
+msgid "Action Status"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:124
+msgid "Count"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:125
+msgid "Oldest Scheduled Date"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/ActionScheduler_wcSystemStatus.php:126
+msgid "Newest Scheduled Date"
+msgstr ""
+
+#. translators: %s refers to the exception error message
+#: inc/vendors/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Clean_Command.php:105
+#, php-format
+msgid "There was an error deleting an action: %s"
+msgstr ""
+
+#. translators: %s php class name
+#: inc/vendors/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:33
+#: inc/vendors/action-scheduler/classes/WP_CLI/ProgressBar.php:47
+#, php-format
+msgid "The %s class can only be run within WP CLI."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:59
+msgid ""
+"There are too many concurrent batches, but the run is forced to continue."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:61
+msgid "There are too many concurrent batches."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:113
+msgid "The claim has been lost. Aborting current batch."
+msgstr ""
+
+#. translators: %s refers to the action ID
+#: inc/vendors/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:138
+#, php-format
+msgid "Started processing action %s"
+msgstr ""
+
+#. translators: 1: action ID 2: hook name
+#: inc/vendors/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:155
+#, php-format
+msgid "Completed processing action %1$s with hook: %2$s"
+msgstr ""
+
+#. translators: 1: action ID 2: exception message
+#: inc/vendors/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:170
+#, php-format
+msgid "Error processing action %1$s: %2$s"
+msgstr ""
+
+#. translators: %s refers to the schema name
+#: inc/vendors/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:30
+#, php-format
+msgid "Registered schema for %s"
+msgstr ""
+
+#. translators: %s refers to the exception error message
+#: inc/vendors/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:188
+#, php-format
+msgid "There was an error running the action scheduler: %s"
+msgstr ""
+
+#. translators: %s function name.
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler.php:226
+#, php-format
+msgid "%s() was called before the Action Scheduler data store was initialized"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:523
+msgid "Filter"
+msgstr ""
+
+#. translators: %s: search query
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:650
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:155
+msgid ""
+"This action appears to be consistently failing. A new instance will not be "
+"scheduled."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:72
+msgid "action created"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:76
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBLogger.php:142
+msgid "action canceled"
+msgstr ""
+
+#. translators: %s: context
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:82
+#, php-format
+msgid "action started via %s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:84
+msgid "action started"
+msgstr ""
+
+#. translators: %s: context
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:92
+#, php-format
+msgid "action complete via %s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:94
+msgid "action complete"
+msgstr ""
+
+#. translators: 1: context 2: exception message
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:102
+#, php-format
+msgid "action failed via %1$s: %2$s"
+msgstr ""
+
+#. translators: %s: exception message
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:105
+#, php-format
+msgid "action failed: %s"
+msgstr ""
+
+#. translators: %s: amount of time
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:112
+#, php-format
+msgid ""
+"action marked as failed after %s seconds. Unknown error occurred. Check "
+"server, PHP and database error logs to diagnose cause."
+msgstr ""
+
+#. translators: 1: error message 2: filename 3: line
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:118
+#, php-format
+msgid "unexpected shutdown: PHP Fatal error %1$s in %2$s on line %3$s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:123
+msgid "action reset"
+msgstr ""
+
+#. translators: %s: context
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:129
+#, php-format
+msgid "action ignored via %s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:131
+msgid "action ignored"
+msgstr ""
+
+#. translators: %s: exception message
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:146
+#, php-format
+msgid "There was a failure fetching this action: %s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:148
+msgid "There was a failure fetching this action"
+msgstr ""
+
+#. translators: %s: exception message
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:156
+#, php-format
+msgid "There was a failure scheduling the next instance of this action: %s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Store.php:329
+#, php-format
+msgid ""
+"ActionScheduler_Action::$args too long. To ensure the args column can be "
+"indexed, action args should not be more than %d characters when encoded as "
+"JSON."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Store.php:405
+msgid "Complete"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Store.php:406
+msgid "Pending"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Store.php:407
+msgid "In-progress"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Store.php:408
+msgid "Failed"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/abstracts/ActionScheduler_Store.php:409
+msgid "Canceled"
+msgstr ""
+
+#. translators: 1: action hook.
+#: inc/vendors/action-scheduler/classes/actions/ActionScheduler_Action.php:50
+#, php-format
+msgid ""
+"Scheduled action for %1$s will not be executed as no callbacks are "
+"registered."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:118
+msgid "Database error."
+msgstr ""
+
+#. translators: %s: error message
+#. translators: %s: action error message
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:126
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:49
+#: inc/vendors/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+#, php-format
+msgid "Error saving action: %s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:396
+msgid "Invalid value for select or count parameter. Cannot query actions."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:454
+msgid ""
+"JSON partial matching not supported in your environment. Please check your "
+"MySQL/MariaDB version."
+msgstr ""
+
+#. translators: %s: provided value type
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:471
+#, php-format
+msgid ""
+"The value type for the JSON partial matching is not supported. Must be "
+"either integer, boolean, double or string. %s type provided."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:492
+msgid "Unknown partial args matching value."
+msgstr ""
+
+#. translators: %s: action ID
+#. translators: %s is the action ID
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:653
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:745
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:776
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:1075
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:1133
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:515
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:534
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:564
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:987
+#, php-format
+msgid "Unidentified action %s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:938
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:696
+msgid "Unable to claim actions. Database error."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:1032
+#, php-format
+msgid "Unable to release actions from claim id %d."
+msgstr ""
+
+#. translators: 1: action ID. 2: status slug.
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:1102
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:967
+#, php-format
+msgid "Unable to update the status of action %1$d to %2$s."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:1163
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:904
+msgid "Invalid action ID. No status found."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:1165
+msgid "Unknown status found for action."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:101
+msgid "Unable to save action."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:318
+msgid "Invalid schedule. Cannot save action."
+msgstr ""
+
+#. translators: %s is the group name
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:717
+#, php-format
+msgid "The group \"%s\" does not exist."
+msgstr ""
+
+#. translators: %s: claim ID
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:824
+#, php-format
+msgid "Unable to unlock claim %s. Database error."
+msgstr ""
+
+#. translators: %s: action ID
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:852
+#, php-format
+msgid "Unable to unlock claim on action %s. Database error."
+msgstr ""
+
+#. translators: %s: action ID
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:878
+#, php-format
+msgid "Unable to mark failure on action %s. Database error."
+msgstr ""
+
+#. translators: %s is the error message
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:1068
+#, php-format
+msgid ""
+"%s Support for strings longer than this will be removed in a future version."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:20
+msgid "Scheduled actions are hooks triggered on a cetain date and time."
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:31
+msgid "Scheduled Action"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:34
+msgid "Add New Scheduled Action"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:35
+msgid "Edit"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:36
+msgid "Edit Scheduled Action"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:37
+msgid "New Scheduled Action"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:38
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:39
+msgid "View Action"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:40
+msgid "Search Scheduled Actions"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:41
+msgid "No actions found"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:42
+msgid "No actions found in trash"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_TaxonomyRegistrar.php:14
+msgid "Action Group"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/migration/ActionMigrator.php:95
+#, php-format
+msgid "Unable to remove source migrated action %s"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/migration/Config.php:52
+msgid "Source store must be configured before running a migration"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/migration/Config.php:74
+msgid "Source logger must be configured before running a migration"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/migration/Config.php:96
+msgid "Destination store must be configured before running a migration"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/migration/Config.php:118
+msgid "Destination logger must be configured before running a migration"
+msgstr ""
+
+#: inc/vendors/action-scheduler/classes/migration/Controller.php:162
+msgid ""
+"Action Scheduler migration in progress. The list of scheduled actions may be "
+"incomplete."
+msgstr ""
+
+#. translators: 1: source action ID 2: source store class 3: destination action ID 4: destination store class
+#: inc/vendors/action-scheduler/classes/migration/Runner.php:107
+#, php-format
+msgid "Migrated action with ID %1$d in %2$s to ID %3$d in %4$s"
+msgstr ""
+
+#. translators: 1: provided value 2: provided type.
+#: inc/vendors/action-scheduler/functions.php:134
+#, php-format
+msgid "An integer was expected but \"%1$s\" (%2$s) was received."
+msgstr ""
+
+#. translators: %s is the name of the hook to be cancelled.
+#: inc/vendors/action-scheduler/functions.php:287
+#, php-format
+msgid "Caught exception while cancelling action: %s"
+msgstr ""
+
+#: lang/strings_to_translate.php:2
+msgid "24 hour check-in"
+msgstr "Круглосуточная регистрация"
+
+#: lang/strings_to_translate.php:3
+msgid "Accessible-height bed"
+msgstr ""
+
+#: lang/strings_to_translate.php:4
+msgid "Accessible-height toilet"
+msgstr ""
+
+#: lang/strings_to_translate.php:6
+msgid "Air conditioning"
+msgstr "Кондиционер"
+
+#: lang/strings_to_translate.php:7
+msgid "All photos"
+msgstr ""
+
+#: lang/strings_to_translate.php:9
+msgid "Amenities and special features of this"
+msgstr ""
+
+#: lang/strings_to_translate.php:10
+msgid "Amenities and special featuresa"
+msgstr ""
+
+#: lang/strings_to_translate.php:11
+msgid "Apartment"
+msgstr ""
+
+#: lang/strings_to_translate.php:12 tpl/element/booking-search-advanced.php:107
+msgid "Apply filters"
+msgstr "Применить"
+
+#: lang/strings_to_translate.php:13
+msgid "Arrival"
+msgstr ""
+
+#: lang/strings_to_translate.php:14
+msgid "Arrive"
+msgstr ""
+
+#: lang/strings_to_translate.php:15
+msgid "Availability"
+msgstr ""
+
+#: lang/strings_to_translate.php:16 tpl/element/price-block-on-request.php:4
+msgid "Available"
+msgstr "Доступно"
+
+#: lang/strings_to_translate.php:17
+msgid "Baby bath"
+msgstr ""
+
+#: lang/strings_to_translate.php:18
+msgid "Baby monitor"
+msgstr ""
+
+#: lang/strings_to_translate.php:19
+msgid "Babysitter recommendations"
+msgstr ""
+
+#: lang/strings_to_translate.php:20
+msgid "Balcony or patio"
+msgstr ""
+
+#: lang/strings_to_translate.php:21
+msgid "bath"
+msgstr ""
+
+#: lang/strings_to_translate.php:22 tpl/element/booking-search-advanced.php:63
+#: tpl/element/booking-search-popup.php:71
+msgid "Bathrooms"
+msgstr "Ванные"
+
+#: lang/strings_to_translate.php:23 tpl/listing/listing-facilities.php:32
+msgid "baths"
+msgstr "ванные"
+
+#: lang/strings_to_translate.php:24
+msgid "Bathtub"
+msgstr "Ванна"
+
+#: lang/strings_to_translate.php:25
+msgid "BBQ grill"
+msgstr ""
+
+#: lang/strings_to_translate.php:26
+msgid "Beach essentials"
+msgstr ""
+
+#: lang/strings_to_translate.php:27
+msgid "Beachfront"
+msgstr ""
+
+#: lang/strings_to_translate.php:28
+msgid "Bed linens"
+msgstr "Постельное белье"
+
+#: lang/strings_to_translate.php:29
+msgid "bedroom"
+msgstr ""
+
+#: lang/strings_to_translate.php:30 tpl/listing/listing-facilities.php:18
+#: tpl/listing/listings-recommended-item.php:32
+#: tpl/listing/listings-selected-item.php:32
+msgid "bedrooms"
+msgstr "спален"
+
+#: lang/strings_to_translate.php:31 tpl/element/booking-search-popup.php:57
+#: tpl/element/booking-search.php:129 tpl/element/booking-search.php:135
+msgid "Bedrooms"
+msgstr "Cпален"
+
+#: lang/strings_to_translate.php:32
+msgid "Booked"
+msgstr ""
+
+#: lang/strings_to_translate.php:33
+msgid "Breakfast"
+msgstr "Завтрак"
+
+#: lang/strings_to_translate.php:34
+msgid "Cable TV"
+msgstr "Кабельное ТВ"
+
+#: lang/strings_to_translate.php:35
+msgid "Cancellation policy"
+msgstr ""
+
+#: lang/strings_to_translate.php:36
+msgid "Capacity"
+msgstr ""
+
+#: lang/strings_to_translate.php:37
+msgid "Carbon monoxide detector"
+msgstr "Детектор окиси углерода"
+
+#: lang/strings_to_translate.php:38
+msgid "Cats live on this property"
+msgstr ""
+
+#: lang/strings_to_translate.php:39
+msgid "Changing table"
+msgstr "Пеленальный столик"
+
+#: lang/strings_to_translate.php:40
+msgid "Children’s books and toys"
+msgstr ""
+
+#: lang/strings_to_translate.php:41
+msgid "Children’s dinnerware"
+msgstr ""
+
+#: lang/strings_to_translate.php:42
+msgid "Cleaning before checkout"
+msgstr "Уборка перед выселением"
+
+#: lang/strings_to_translate.php:43 tpl/element/price-block-default.php:64
+#: tpl/payment/preview-default.php:30
+msgid "Cleaning fee"
+msgstr "Плата за уборку"
+
+#: lang/strings_to_translate.php:44 tpl/element/booking-search-popup.php:159
+msgid "Clear all"
+msgstr "Очистить"
+
+#: lang/strings_to_translate.php:46
+msgid "Coffee maker"
+msgstr ""
+
+#: lang/strings_to_translate.php:47
+msgid "Cooking basics"
+msgstr ""
+
+#: lang/strings_to_translate.php:48
+msgid "Cottage"
+msgstr ""
+
+#: lang/strings_to_translate.php:49
+msgid "Crib"
+msgstr "Детская кроватка"
+
+#: lang/strings_to_translate.php:50
+msgid "Daily"
+msgstr ""
+
+#: lang/strings_to_translate.php:51
+msgid "Daily rental"
+msgstr ""
+
+#: lang/strings_to_translate.php:52
+msgid "day"
+msgstr ""
+
+#: lang/strings_to_translate.php:53
+msgid "Depart"
+msgstr ""
+
+#: lang/strings_to_translate.php:54
+msgid "Departure"
+msgstr ""
+
+#: lang/strings_to_translate.php:55
+msgid "Disabled parking spot"
+msgstr ""
+
+#: lang/strings_to_translate.php:56
+msgid "Dishes and silverware"
+msgstr ""
+
+#: lang/strings_to_translate.php:57
+msgid "Dishwasher"
+msgstr ""
+
+#: lang/strings_to_translate.php:58
+msgid "Doorman"
+msgstr ""
+
+#: lang/strings_to_translate.php:59
+msgid "Dryer"
+msgstr "Сушилка"
+
+#: lang/strings_to_translate.php:60
+msgid "Electric profiling bed"
+msgstr ""
+
+#: lang/strings_to_translate.php:61
+msgid "Elevator in building"
+msgstr "Лифт в здании"
+
+#: lang/strings_to_translate.php:62 tpl/element/direct-inquiry-modal.php:36
+#: tpl/payment/netpay-form.php:86 tpl/payment/stripe-form-3ds.php:26
+#: tpl/payment/stripe-form-3ds.php:27 tpl/payment/stripe-form.php:22
+#: tpl/payment/stripe-form.php:23
+msgid "Email"
+msgstr "Email"
+
+#: lang/strings_to_translate.php:63
+msgid "Enter location..."
+msgstr ""
+
+#: lang/strings_to_translate.php:64
+msgid "Essentials"
+msgstr "Предметы первой необходимости"
+
+#: lang/strings_to_translate.php:65
+msgid "Ethernet connection"
+msgstr ""
+
+#: lang/strings_to_translate.php:66
+msgid "EV charger"
+msgstr ""
+
+#: lang/strings_to_translate.php:67
+msgid "Event friendly"
+msgstr ""
+
+#: lang/strings_to_translate.php:68 tpl/element/booking-search-popup.php:147
+msgid "Events allowed"
+msgstr "Праздники разрешены"
+
+#: lang/strings_to_translate.php:69 tpl/element/price-block-default.php:71
+#: tpl/payment/preview-default.php:37
+msgid "Extra person"
+msgstr "Доп. гости"
+
+#: lang/strings_to_translate.php:70
+msgid "Extra pillows and blankets"
+msgstr ""
+
+#: lang/strings_to_translate.php:71
+msgid "Family/kids friendly"
+msgstr ""
+
+#: lang/strings_to_translate.php:72
+msgid "Fire extinguisher"
+msgstr "Огнетушитель"
+
+#: lang/strings_to_translate.php:73
+msgid "Fireplace guards"
+msgstr ""
+
+#: lang/strings_to_translate.php:74
+msgid "Firm mattress"
+msgstr ""
+
+#: lang/strings_to_translate.php:75
+msgid "First aid kit"
+msgstr "Аптечка"
+
+#: lang/strings_to_translate.php:76
+msgid "First name"
+msgstr ""
+
+#: lang/strings_to_translate.php:77
+msgid "Flat smooth pathway to front door"
+msgstr ""
+
+#: lang/strings_to_translate.php:78
+msgid "Free parking on premises"
+msgstr ""
+
+#: lang/strings_to_translate.php:79
+msgid "Free parking on the street"
+msgstr ""
+
+#: lang/strings_to_translate.php:80 tpl/listing/listing-info-prices.php:7
+#: tpl/listing/listing-info-prices.php:13
+#: tpl/listing/listing-info-prices.php:20
+#: tpl/listing/listings-recommended-item.php:57
+#: tpl/listing/listings-selected-item.php:57 tpl/user/wishlist-item.php:49
+msgid "from"
+msgstr "от"
+
+#: lang/strings_to_translate.php:82
+msgid "Full kitchen"
+msgstr ""
+
+#: lang/strings_to_translate.php:84
+msgid "Game console"
+msgstr ""
+
+#: lang/strings_to_translate.php:85
+msgid "Garden or backyard"
+msgstr ""
+
+#: lang/strings_to_translate.php:86
+msgid "Grab-rails for shower and toilet"
+msgstr ""
+
+#: lang/strings_to_translate.php:87 tpl/listing/listing-info.php:16
+msgid "Guest access"
+msgstr "Доступ для гостей"
+
+#: lang/strings_to_translate.php:88 tpl/listing/listing-facilities.php:11
+#: tpl/listing/listings-recommended-item.php:24
+#: tpl/listing/listings-selected-item.php:24
+msgid "guests"
+msgstr "гостей"
+
+#: lang/strings_to_translate.php:89 tpl/payment/preview.php:28
+#: tpl/user/booking-manage.php:44
+msgid "Guests"
+msgstr "Гостей"
+
+#: lang/strings_to_translate.php:90
+msgid "Gym"
+msgstr ""
+
+#: lang/strings_to_translate.php:91
+msgid "Hair dryer"
+msgstr "Фен"
+
+#: lang/strings_to_translate.php:92
+msgid "Handheld shower head"
+msgstr ""
+
+#: lang/strings_to_translate.php:93
+msgid "Hangers"
+msgstr "Вешалка"
+
+#: lang/strings_to_translate.php:94
+msgid "Has dog"
+msgstr ""
+
+#: lang/strings_to_translate.php:95
+msgid "Heating"
+msgstr "Отопление"
+
+#: lang/strings_to_translate.php:96 tpl/listing/listings-map-toggle.php:10
+msgid "Hide map"
+msgstr "Скрыть карту"
+
+#: lang/strings_to_translate.php:97
+msgid "High chair"
+msgstr ""
+
+#: lang/strings_to_translate.php:98
+msgid "Home office friendly"
+msgstr ""
+
+#: lang/strings_to_translate.php:99
+msgid "Host checkin"
+msgstr ""
+
+#: lang/strings_to_translate.php:100
+msgid "Hot tub"
+msgstr ""
+
+#: lang/strings_to_translate.php:101
+msgid "Hot water"
+msgstr "Горячая вода"
+
+#: lang/strings_to_translate.php:102
+msgid "House"
+msgstr ""
+
+#: lang/strings_to_translate.php:103 tpl/element/booking-search-popup.php:138
+#: tpl/user/booking-manage.php:171
+msgid "House rules"
+msgstr "Правила"
+
+#: lang/strings_to_translate.php:104
+msgid "I consent to this processing of my data."
+msgstr ""
+
+#: lang/strings_to_translate.php:105
+msgid "Imprint"
+msgstr ""
+
+#: lang/strings_to_translate.php:106
+msgid "Indoor fireplace"
+msgstr ""
+
+#: lang/strings_to_translate.php:107 tpl/listing/listing-info.php:21
+msgid "Interaction with guests"
+msgstr "Взаимодействие с гостями"
+
+#: lang/strings_to_translate.php:108
+msgid "internet connection"
+msgstr ""
+
+#: lang/strings_to_translate.php:109
+msgid "Iron"
+msgstr "Утюг"
+
+#: lang/strings_to_translate.php:110
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: lang/strings_to_translate.php:111
+msgid "Jacuzzi"
+msgstr ""
+
+#: lang/strings_to_translate.php:112
+msgid "Kettle"
+msgstr ""
+
+#: lang/strings_to_translate.php:113
+msgid "Keypad"
+msgstr ""
+
+#: lang/strings_to_translate.php:114
+msgid "Kitchen"
+msgstr "Кухня"
+
+#: lang/strings_to_translate.php:115
+msgid "Lake access"
+msgstr ""
+
+#: lang/strings_to_translate.php:116
+msgid "Laptop friendly workspace"
+msgstr "Место для ноутбука"
+
+#: lang/strings_to_translate.php:117
+msgid "Last name"
+msgstr ""
+
+#: lang/strings_to_translate.php:118
+msgid "Loading calendar..."
+msgstr ""
+
+#: lang/strings_to_translate.php:119
+msgid "Lock on bedroom door"
+msgstr "Замок на двери спальни"
+
+#: lang/strings_to_translate.php:120
+msgid "Lockbox"
+msgstr ""
+
+#: lang/strings_to_translate.php:121
+msgid "Long term stays allowed"
+msgstr "Допускается длительное проживание"
+
+#: lang/strings_to_translate.php:122
+msgid "Luggage dropoff allowed"
+msgstr "Выгрузка багажа"
+
+#: lang/strings_to_translate.php:123 lang/strings_to_translate.php:124
+msgid "Make a booking inquiry"
+msgstr ""
+
+#: lang/strings_to_translate.php:125
+msgid "Make an inquiry"
+msgstr ""
+
+#: lang/strings_to_translate.php:126
+msgid "Microwave"
+msgstr ""
+
+#: lang/strings_to_translate.php:127
+#, php-format
+msgid "Minimum stay %s nights"
+msgstr ""
+
+#: lang/strings_to_translate.php:129
+msgid "Monthly"
+msgstr ""
+
+#: lang/strings_to_translate.php:130 tpl/element/price-block-accounting.php:29
+#: tpl/element/price-block-default.php:33 tpl/payment/preview-accounting.php:41
+#: tpl/payment/preview-default.php:51
+msgid "monthly discount"
+msgstr "скидка за месяц"
+
+#: lang/strings_to_translate.php:131
+msgid "Monthly rental"
+msgstr ""
+
+#: lang/strings_to_translate.php:132
+msgid "More filters"
+msgstr ""
+
+#: lang/strings_to_translate.php:133
+msgid "More results"
+msgstr ""
+
+#: lang/strings_to_translate.php:134 tpl/element/pagination-block.php:37
+msgid "Next"
+msgstr "Далее"
+
+#: lang/strings_to_translate.php:135
+msgid "Next:"
+msgstr ""
+
+#: lang/strings_to_translate.php:139 tpl/element/error-no-listings-found.php:2
+msgid "No available properties for your search."
+msgstr "Нет доступный вариантов."
+
+#: lang/strings_to_translate.php:140
+msgid "Nothing Found"
+msgstr ""
+
+#: lang/strings_to_translate.php:141
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: lang/strings_to_translate.php:142
+msgid "original"
+msgstr ""
+
+#: lang/strings_to_translate.php:143
+msgid "Outlet covers"
+msgstr ""
+
+#: lang/strings_to_translate.php:144
+msgid "Oven"
+msgstr ""
+
+#: lang/strings_to_translate.php:145
+msgid "Pack ’n Play/travel crib"
+msgstr ""
+
+#: lang/strings_to_translate.php:146
+msgid "Pages:"
+msgstr ""
+
+#: lang/strings_to_translate.php:147
+msgid "Paid parking on the street"
+msgstr ""
+
+#: lang/strings_to_translate.php:148
+msgid "Paid parking with garage"
+msgstr ""
+
+#: lang/strings_to_translate.php:149
+msgid "Parking"
+msgstr "Паркинг"
+
+#: lang/strings_to_translate.php:150
+msgid "Path to entrance lit at night"
+msgstr ""
+
+#: lang/strings_to_translate.php:151
+msgid "Patio or balcony"
+msgstr ""
+
+#: lang/strings_to_translate.php:152 tpl/element/booking-search-popup.php:143
+msgid "Pets allowed"
+msgstr "Животные разрешены"
+
+#: lang/strings_to_translate.php:153
+msgid "Pets are welcome"
+msgstr ""
+
+#: lang/strings_to_translate.php:154
+msgid "Pets live on this property"
+msgstr ""
+
+#: lang/strings_to_translate.php:155 tpl/element/direct-inquiry-modal.php:41
+#: tpl/payment/netpay-form.php:93 tpl/payment/stripe-form-3ds.php:31
+#: tpl/payment/stripe-form-3ds.php:32 tpl/payment/stripe-form.php:27
+#: tpl/payment/stripe-form.php:28
+msgid "Phone"
+msgstr "Телефон"
+
+#: lang/strings_to_translate.php:156
+msgid "Please try again"
+msgstr ""
+
+#: lang/strings_to_translate.php:157
+msgid "Pocket wifi"
+msgstr ""
+
+#: lang/strings_to_translate.php:158
+msgid "Pool"
+msgstr "Бассейн"
+
+#: lang/strings_to_translate.php:159
+msgid "Previous:"
+msgstr ""
+
+#: lang/strings_to_translate.php:160 tpl/element/booking-search-popup.php:119
+#: tpl/user/wishlist-item.php:45
+msgid "Price"
+msgstr "Цена"
+
+#: lang/strings_to_translate.php:161 tpl/user/wishlist.php:26
+msgid "Price ascending"
+msgstr "По возрастанию цены"
+
+#: lang/strings_to_translate.php:162 tpl/user/wishlist.php:27
+msgid "Price descending"
+msgstr "По уменьшению цены"
+
+#: lang/strings_to_translate.php:163
+msgid "Print this page"
+msgstr ""
+
+#: lang/strings_to_translate.php:164
+msgid "Privacy Policy"
+msgstr ""
+
+#: lang/strings_to_translate.php:165
+msgid "Private entrance"
+msgstr "Отдельный вход"
+
+#: lang/strings_to_translate.php:166
+msgid "Private living room"
+msgstr ""
+
+#: lang/strings_to_translate.php:167 tpl/element/booking-search-popup.php:82
+msgid "Property Type"
+msgstr "Тип помещения"
+
+#: lang/strings_to_translate.php:168
+msgid "Quiet hours"
+msgstr ""
+
+#: lang/strings_to_translate.php:169
+msgid "Refrigerator"
+msgstr ""
+
+#: lang/strings_to_translate.php:170
+msgid "Registration number:"
+msgstr ""
+
+#: lang/strings_to_translate.php:171
+msgid "Rental"
+msgstr ""
+
+#: lang/strings_to_translate.php:172
+msgid "Roll-in shower with shower bench or chair"
+msgstr ""
+
+#: lang/strings_to_translate.php:173
+msgid "Room-darkening shades"
+msgstr ""
+
+#: lang/strings_to_translate.php:174
+msgid "Safety card"
+msgstr ""
+
+#: lang/strings_to_translate.php:176
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: lang/strings_to_translate.php:177 tpl/element/booking-search-advanced.php:53
+#: tpl/element/booking-search-advanced.php:65
+#: tpl/element/booking-search-popup.php:59
+#: tpl/element/booking-search-popup.php:73
+msgid "Select"
+msgstr "Выборать"
+
+#: lang/strings_to_translate.php:178
+msgid "Self check-in"
+msgstr ""
+
+#: lang/strings_to_translate.php:179
+msgid "Send inquiry"
+msgstr ""
+
+#: lang/strings_to_translate.php:180
+msgid "Service charge"
+msgstr ""
+
+#: lang/strings_to_translate.php:181
+msgid "Shampoo"
+msgstr "Шампунь"
+
+#: lang/strings_to_translate.php:182
+msgid "Show all"
+msgstr ""
+
+#: lang/strings_to_translate.php:183 tpl/listing/listings-map-toggle.php:7
+msgid "Show map"
+msgstr "Показать карту"
+
+#: lang/strings_to_translate.php:184 tpl/element/booking-search-popup.php:97
+msgid "Show more"
+msgstr "Еще"
+
+#: lang/strings_to_translate.php:185
+msgid "Show more amenities"
+msgstr ""
+
+#: lang/strings_to_translate.php:186
+msgid "Single level home"
+msgstr ""
+
+#: lang/strings_to_translate.php:187
+msgid "Size"
+msgstr ""
+
+#: lang/strings_to_translate.php:188
+msgid "Ski in/Ski out"
+msgstr ""
+
+#: lang/strings_to_translate.php:189
+msgid "Smartlock"
+msgstr ""
+
+#: lang/strings_to_translate.php:190
+msgid "Smoke detector"
+msgstr "Детектор дыма"
+
+#: lang/strings_to_translate.php:191 tpl/element/booking-search-popup.php:151
+msgid "Smoking allowed"
+msgstr "Курение разрешено"
+
+#: lang/strings_to_translate.php:192
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: lang/strings_to_translate.php:193 tpl/user/wishlist.php:24
+msgid "Sort by:"
+msgstr "Сортировка:"
+
+#: lang/strings_to_translate.php:194
+msgid "Stair gates"
+msgstr "Лестничные ворота"
+
+#: lang/strings_to_translate.php:196
+msgid "Step-free access"
+msgstr ""
+
+#: lang/strings_to_translate.php:197
+msgid "Stove"
+msgstr ""
+
+#: lang/strings_to_translate.php:198
+msgid "Table corner guards"
+msgstr ""
+
+#: lang/strings_to_translate.php:199
+msgid "Terms & conditions"
+msgstr ""
+
+#: lang/strings_to_translate.php:200
+msgid "Thank you!"
+msgstr ""
+
+#: lang/strings_to_translate.php:201
+msgid "The listing is not available for your selected dates."
+msgstr ""
+
+#: lang/strings_to_translate.php:202
+msgid "This field is required."
+msgstr ""
+
+#: lang/strings_to_translate.php:203
+msgid "to"
+msgstr ""
+
+#: lang/strings_to_translate.php:204
+msgid ""
+"To see availability and pricing please enter your check-in and check-out "
+"dates below."
+msgstr ""
+
+#: lang/strings_to_translate.php:205
+msgid ""
+"To see availability please enter your check-in and check-out dates below."
+msgstr ""
+
+#: lang/strings_to_translate.php:207
+msgid "Trashcan"
+msgstr ""
+
+#: lang/strings_to_translate.php:208
+msgid "Tub with shower bench"
+msgstr ""
+
+#: lang/strings_to_translate.php:209
+msgid "TV"
+msgstr "ТВ"
+
+#: lang/strings_to_translate.php:210
+msgid "Villa"
+msgstr ""
+
+#: lang/strings_to_translate.php:211
+msgid "Washer"
+msgstr "Стиральная машина"
+
+#: lang/strings_to_translate.php:212
+msgid "Waterfront"
+msgstr ""
+
+#: lang/strings_to_translate.php:213
+msgid ""
+"We have received your inquiry. Our representative will get back to you "
+"shortly."
+msgstr ""
+
+#: lang/strings_to_translate.php:214
+msgid "What you should know about this"
+msgstr ""
+
+#: lang/strings_to_translate.php:215
+msgid "What you should know about this listing"
+msgstr ""
+
+#: lang/strings_to_translate.php:216
+msgid "Wheelchair access possible"
+msgstr ""
+
+#: lang/strings_to_translate.php:217
+msgid "Wheelchair accessible"
+msgstr ""
+
+#: lang/strings_to_translate.php:218
+msgid "Wide clearance to bed"
+msgstr ""
+
+#: lang/strings_to_translate.php:219
+msgid "Wide clearance to shower and toilet"
+msgstr ""
+
+#: lang/strings_to_translate.php:220
+msgid "Wide doorway"
+msgstr "Широкие дверные проемы"
+
+#: lang/strings_to_translate.php:221
+msgid "Wide hallway clearance"
+msgstr ""
+
+#: lang/strings_to_translate.php:222
+msgid "Window guards"
+msgstr ""
+
+#: lang/strings_to_translate.php:223
+msgid "Wireless Internet"
+msgstr "Беспроводной интернет"
+
+#: lang/strings_to_translate.php:225
+msgid "Your inquiry"
+msgstr ""
+
+#: tpl/element/booking-search-advanced.php:10
+msgid " / month"
+msgstr " / месяц"
+
+#: tpl/element/booking-search-advanced.php:14
+msgid " / day"
+msgstr " / день"
+
+#: tpl/element/booking-search-advanced.php:50
+#: tpl/element/direct-inquiry-modal.php:99 tpl/element/guests-block.php:90
+#: tpl/payment/preview.php:47
+msgid "Pets"
+msgstr ""
+
+#: tpl/element/booking-search-advanced.php:53
+msgid "Does not matter"
+msgstr ""
+
+#: tpl/element/booking-search-advanced.php:106
+msgid "Reset"
+msgstr "Сбросить"
+
+#: tpl/element/booking-search-popup.php:61 tpl/element/booking-search.php:131
+#: tpl/listing/listing-facilities.php:16
+msgid "Studio"
+msgstr "Студия"
+
+#: tpl/element/booking-search.php:12
+msgid "Long-term bookings"
+msgstr ""
+
+#: tpl/element/booking-search.php:16
+msgid "Short-term bookings"
+msgstr ""
+
+#: tpl/element/booking-search.php:34
+msgid "Any"
+msgstr "Любое"
+
+#: tpl/element/booking-search.php:106 tpl/element/direct-inquiry-modal.php:55
+#: tpl/listing/listing-booking-form-on-request.php:18
+#: tpl/listing/listing-booking-form-v2.php:14
+#: tpl/listing/listing-booking-form.php:14
+#: tpl/listing/listing-reviews-summary.php:57 tpl/payment/preview.php:16
+#: tpl/user/booking-manage.php:31
+msgid "Check In"
+msgstr "Заселение"
+
+#: tpl/element/booking-search.php:116 tpl/element/direct-inquiry-modal.php:68
+#: tpl/listing/listing-booking-form-on-request.php:25
+#: tpl/listing/listing-booking-form-v2.php:21
+#: tpl/listing/listing-booking-form.php:21 tpl/payment/preview.php:20
+#: tpl/user/booking-manage.php:36
+msgid "Check Out"
+msgstr "Дата выезда"
+
+#: tpl/element/booking-search.php:135
+msgid "Bedroom"
+msgstr "Спальня"
+
+#: tpl/element/direct-inquiry-modal.php:17
+#: tpl/listing/listing-booking-form-on-request.php:81
+#: tpl/listing/listing-booking-form-v2.php:74
+#: tpl/listing/listing-booking-form.php:80
+msgid "Reservation Inquiry"
+msgstr "Запрос резервации"
+
+#: tpl/element/direct-inquiry-modal.php:22
+msgid "First Name"
+msgstr "Имя"
+
+#: tpl/element/direct-inquiry-modal.php:27
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: tpl/element/direct-inquiry-modal.php:80 tpl/element/guests-block.php:17
+#: tpl/payment/preview.php:41
+msgid "Adults"
+msgstr ""
+
+#: tpl/element/direct-inquiry-modal.php:85 tpl/element/guests-block.php:37
+#: tpl/payment/preview.php:43
+msgid "Children"
+msgstr ""
+
+#: tpl/element/direct-inquiry-modal.php:90 tpl/element/guests-block.php:60
+#: tpl/payment/preview.php:45
+msgid "Infants"
+msgstr ""
+
+#: tpl/element/direct-inquiry-modal.php:105
+msgid "Discount Code"
+msgstr "Код купона"
+
+#: tpl/element/direct-inquiry-modal.php:117
+msgid "Question or Comment"
+msgstr "Вопрос или комментарий"
+
+#: tpl/element/direct-inquiry-modal.php:156 tpl/user/booking-manage.php:289
+msgid "Send"
+msgstr "Отправить"
+
+#: tpl/element/direct-inquiry-modal.php:165
+msgid "Thank you for your inquiry! We'll be in touch soon."
+msgstr "Спасибо за ваш запрос! Мы скоро свяжемся с вами."
+
+#: tpl/element/error-no-listings-available.php:2
+msgid "No accommodation available"
+msgstr ""
+
+#: tpl/element/error-no-listings-found.php:5
+msgid "Try to change the filter conditions."
+msgstr ""
+
+#: tpl/element/error-no-listings-found.php:9
+msgid "Try to move or resize the map."
+msgstr ""
+
+#: tpl/element/guests-block.php:6
+#: tpl/listing/listing-booking-form-on-request.php:31
+#: tpl/listing/listing-booking-form.php:29
+msgid "Guests:"
+msgstr ""
+
+#: tpl/element/guests-block.php:18
+msgid "Age: 13+"
+msgstr ""
+
+#: tpl/element/guests-block.php:38
+msgid "Age: 2-12"
+msgstr ""
+
+#: tpl/element/guests-block.php:61
+msgid "Age under 2"
+msgstr ""
+
+#: tpl/element/guests-block.php:115
+msgid "This place has a maximum of {max} guests, not including infants."
+msgstr ""
+
+#: tpl/element/guests-block.php:116
+msgid "This place has a maximum of {max} guests, infants not allowed."
+msgstr ""
+
+#: tpl/element/guests-block.php:122
+msgid "Children aren't allowed"
+msgstr ""
+
+#: tpl/element/guests-block.php:130
+msgid "Pets allowed."
+msgstr ""
+
+#: tpl/element/guests-block.php:131
+msgid "Pets aren't allowed."
+msgstr ""
+
+#: tpl/element/pagination-block.php:9
+msgid "Previous"
+msgstr "Назад"
+
+#: tpl/element/price-block-accounting.php:11
+#: tpl/element/price-block-accounting.php:19
+#: tpl/element/price-block-default.php:19 tpl/payment/preview-accounting.php:10
+#: tpl/payment/preview-accounting.php:17 tpl/payment/preview-default.php:23
+#: tpl/user/booking-manage.php:50
+msgid "Price for"
+msgstr "Цена"
+
+#: tpl/element/price-block-accounting.php:36
+#: tpl/element/price-block-default.php:40 tpl/payment/preview-accounting.php:48
+#: tpl/payment/preview-default.php:58
+msgid "weekly discount"
+msgstr "скидка за неделю"
+
+#: tpl/element/price-block-accounting.php:50
+#: tpl/element/price-block-default.php:54
+msgid "Coupon Discount"
+msgstr "Купон"
+
+#: tpl/element/price-block-accounting.php:51
+#: tpl/element/price-block-default.php:55
+msgid "Wrong or inactive code"
+msgstr "Неправильный или неактуальный код"
+
+#: tpl/element/price-block-accounting.php:77 tpl/payment/preview.php:61
+msgid "Due upon arrival:"
+msgstr ""
+
+#: tpl/element/price-block-accounting.php:93 tpl/payment/preview.php:75
+#: tpl/user/booking-manage.php:92
+msgid "Subtotal"
+msgstr "Предварительно"
+
+#: tpl/element/price-block-accounting.php:97 tpl/payment/preview.php:79
+msgid "Taxes"
+msgstr ""
+
+#: tpl/element/price-block-default.php:78 tpl/payment/preview-default.php:44
+msgid "Tax"
+msgstr "Таксы"
+
+#: tpl/element/price-block.php:19 tpl/payment/preview.php:101
+msgid "Security deposit"
+msgstr ""
+
+#: tpl/element/price-block.php:28
+msgid "Proceed to payment"
+msgstr "Перейти к оплате"
+
+#: tpl/element/price-block.php:52
+msgid "Book on Airbnb"
+msgstr "Забронировать на Airbnb"
+
+#: tpl/element/price-block.php:54
+msgid "You won't be charged yet"
+msgstr "Оплата не будет снята сразу"
+
+#: tpl/listing/listing-amenities.php:6
+msgid "show more &rarr;"
+msgstr ""
+
+#: tpl/listing/listing-booking-form-on-request.php:46
+#: tpl/listing/listing-booking-form-v2.php:38
+#: tpl/listing/listing-booking-form.php:44
+msgid "Have a discount code?"
+msgstr "У вас есть купон?"
+
+#: tpl/listing/listing-booking-form-on-request.php:48
+#: tpl/listing/listing-booking-form-v2.php:40
+#: tpl/listing/listing-booking-form.php:46
+msgid "Your discount code..."
+msgstr "Код вашего купона..."
+
+#: tpl/listing/listing-booking-form-on-request.php:49
+#: tpl/listing/listing-booking-form-v2.php:41
+#: tpl/listing/listing-booking-form.php:47
+msgid "Apply"
+msgstr "Применить"
+
+#: tpl/listing/listing-booking-form-on-request.php:76
+#: tpl/listing/listing-booking-form-v2.php:69
+#: tpl/listing/listing-booking-form.php:75
+msgid "Clear dates"
+msgstr "Очистить даты"
+
+#: tpl/listing/listing-facilities.php:24
+#: tpl/listing/listings-recommended-item.php:28
+#: tpl/listing/listings-selected-item.php:28
+msgid "beds"
+msgstr "кроватей"
+
+#: tpl/listing/listing-facilities.php:31
+msgid "shared baths"
+msgstr ""
+
+#: tpl/listing/listing-info-permit.php:5
+msgid "Permit / Tax ID"
+msgstr ""
+
+#: tpl/listing/listing-info-prices.php:6
+msgid "Nightly:"
+msgstr ""
+
+#: tpl/listing/listing-info-prices.php:12
+msgid "Weekends (Sat & Sun):"
+msgstr ""
+
+#: tpl/listing/listing-info-prices.php:19
+msgid "Monthly (30d+):"
+msgstr ""
+
+#: tpl/listing/listing-info-prices.php:26
+msgid "Security Deposit:"
+msgstr ""
+
+#: tpl/listing/listing-info-prices.php:33
+msgid "Additional Guests:"
+msgstr ""
+
+#: tpl/listing/listing-info-prices.php:40
+msgid "Allow Additional Guests:"
+msgstr ""
+
+#: tpl/listing/listing-info-prices.php:47
+msgid "Cleaning Fee: "
+msgstr "Такса за уборку: "
+
+#: tpl/listing/listing-info-prices.php:53
+msgid "Per Stay City Free: "
+msgstr ""
+
+#: tpl/listing/listing-info-prices.php:59
+msgid "Per Stay Minimum Number Of Days: "
+msgstr ""
+
+#: tpl/listing/listing-info-prices.php:66
+msgid "Maximum Number Of Days: "
+msgstr ""
+
+#: tpl/listing/listing-info.php:11
+msgid "The space"
+msgstr "Пространство"
+
+#: tpl/listing/listing-info.php:26
+msgid "Other things to note"
+msgstr "Другие замечания"
+
+#: tpl/listing/listing-reviews-summary.php:29
+msgid "Accuracy"
+msgstr ""
+
+#: tpl/listing/listing-reviews-summary.php:30
+msgid "Communication"
+msgstr ""
+
+#: tpl/listing/listing-reviews-summary.php:31
+msgid "Cleanliness"
+msgstr ""
+
+#: tpl/listing/listing-reviews-summary.php:58
+msgid "Value"
+msgstr ""
+
+#: tpl/listing/listings-recommended-item.php:55
+#: tpl/listing/listings-selected-item.php:55 tpl/user/wishlist-item.php:47
+msgid "on request"
+msgstr "по запросу"
+
+#: tpl/listing/listings-recommended-item.php:64
+#: tpl/listing/listings-selected-item.php:64
+msgid "See more"
+msgstr "Подробнее"
+
+#: tpl/payment/_error.php:5 tpl/payment/stripe-form-3ds_error.php:3
+msgid "There was a problem with your payment. Please try again."
+msgstr ""
+
+#: tpl/payment/_error.php:20 tpl/payment/stripe-form-3ds_error.php:18
+msgid "Back to payment"
+msgstr "Назад к оплате"
+
+#: tpl/payment/_success.php:16 tpl/payment/paypal-form.php:29
+msgid "Payment successful"
+msgstr "Оплата успешно произведена"
+
+#: tpl/payment/_success.php:26 tpl/payment/stripe-form-3ds_success.php:19
+msgid "Transaction No"
+msgstr "Номер транзакции"
+
+#: tpl/payment/_success.php:36
+msgid "Transaction date"
+msgstr "Дата транзакции"
+
+#: tpl/payment/_success.php:51
+msgid "Payment method"
+msgstr "Метод оплаты"
+
+#: tpl/payment/_success.php:63
+msgid "Payment amount"
+msgstr "Сумма оплаты"
+
+#: tpl/payment/_success.php:85
+msgid "Go back"
+msgstr "Назад"
+
+#: tpl/payment/netpay-form.php:79 tpl/payment/stripe-form-3ds.php:19
+#: tpl/payment/stripe-form-3ds.php:20 tpl/payment/stripe-form.php:15
+#: tpl/payment/stripe-form.php:16
+msgid "Name"
+msgstr "Имя"
+
+#: tpl/payment/netpay-form.php:100 tpl/user/booking-manage.php:160
+msgid "Address"
+msgstr "Адрес"
+
+#: tpl/payment/netpay-form.php:107 tpl/payment/stripe-form-3ds.php:299
+msgid "Country"
+msgstr "Страна"
+
+#: tpl/payment/netpay-form.php:364 tpl/payment/netpay-form.php:369
+#: tpl/payment/netpay-form.php:378
+msgid "State"
+msgstr ""
+
+#: tpl/payment/netpay-form.php:389
+msgid "City"
+msgstr ""
+
+#: tpl/payment/netpay-form.php:396 tpl/payment/stripe-form-3ds.php:304
+#: tpl/payment/stripe-form.php:60
+msgid "ZIP"
+msgstr "Почтовый код"
+
+#: tpl/payment/netpay-form.php:401
+msgid "Continue"
+msgstr ""
+
+#: tpl/payment/netpay-form.php:406
+msgid "Back"
+msgstr ""
+
+#: tpl/payment/netpay-form.php:409 tpl/payment/netpay-form.php:424
+#: tpl/payment/netpay-form.php:548 tpl/payment/stripe-form-3ds.php:356
+#: tpl/payment/stripe-form.php:91
+msgid "Pay"
+msgstr "Оплатить"
+
+#: tpl/payment/netpay-form.php:426
+msgid "The amount will be converted to mexican pesos"
+msgstr ""
+
+#: tpl/payment/preview-accounting.php:57 tpl/payment/preview-default.php:66
+msgid "discount"
+msgstr "скидка"
+
+#: tpl/payment/preview-extras-optional.php:9
+msgid "Optional extras:"
+msgstr ""
+
+#: tpl/payment/preview-extras-set.php:7
+msgid "Selected plan:"
+msgstr ""
+
+#: tpl/payment/preview.php:107
+msgid "Price incl. security deposit"
+msgstr ""
+
+#: tpl/payment/preview.php:115
+msgid "Due now"
+msgstr "К оплате сейчас"
+
+#: tpl/payment/stripe-form-3ds.php:31
+msgid ""
+"Country code is mandatory. For example: +1234567890. Length of number must "
+"be from 4 to 19 digits."
+msgstr ""
+
+#: tpl/payment/stripe-form-3ds.php:38
+msgid "Feel free to leave any additional questions..."
+msgstr ""
+
+#: tpl/payment/stripe-form-3ds.php:312 tpl/payment/stripe-form.php:43
+msgid "Card number"
+msgstr "Номер карты"
+
+#: tpl/payment/stripe-form-3ds.php:320 tpl/payment/stripe-form.php:50
+msgid "Expiration"
+msgstr "Дата окончания"
+
+#: tpl/payment/stripe-form-3ds.php:325 tpl/payment/stripe-form.php:55
+msgid "CVC"
+msgstr ""
+
+#: tpl/payment/stripe-form-3ds_success.php:12
+msgid "Payment Successful"
+msgstr "Оплата прошла успешно"
+
+#: tpl/payment/stripe-form-3ds_success.php:25
+msgid "Transaction Date"
+msgstr "Дата транзакции"
+
+#: tpl/payment/stripe-form-3ds_success.php:31
+msgid "Payment Method"
+msgstr "Метод оплаты"
+
+#: tpl/payment/stripe-form-3ds_success.php:39
+msgid "Payment Amount"
+msgstr "Сумма оплаты"
+
+#: tpl/payment/stripe-form-3ds_success.php:46
+msgid "Go Back"
+msgstr "Назад"
+
+#: tpl/payment/stripe-form.php:34
+msgid "Feel free to leave any additional question..."
+msgstr "Замечания, вопросы..."
+
+#: tpl/user/booking-manage.php:11
+msgid "Back to list"
+msgstr "Назад к списку"
+
+#: tpl/user/booking-manage.php:98
+msgid "Extras"
+msgstr "Экстра"
+
+#: tpl/user/booking-manage.php:121
+msgid "Alteration request"
+msgstr "Запрос изменений"
+
+#: tpl/user/booking-manage.php:139
+msgid "Your reservation"
+msgstr "Ваша резервация"
+
+#: tpl/user/booking-manage.php:148
+msgid "Reservation code"
+msgstr "Код резервации"
+
+#: tpl/user/booking-manage.php:174
+msgid "Check in"
+msgstr "Заселение"
+
+#: tpl/user/booking-manage.php:186
+msgid "start from"
+msgstr ""
+
+#: tpl/user/booking-manage.php:188
+msgid "till"
+msgstr "до"
+
+#: tpl/user/booking-manage.php:194
+msgid "Check out"
+msgstr "Выселение"
+
+#: tpl/user/booking-manage.php:198
+msgid "Smoking allowed:"
+msgstr "Курение разрешено:"
+
+#: tpl/user/booking-manage.php:202
+msgid "Children allowed:"
+msgstr "Можно с детьми:"
+
+#: tpl/user/booking-manage.php:206
+msgid "Pets allowed:"
+msgstr "Животные разрешены:"
+
+#: tpl/user/booking-manage.php:210
+msgid "Party allowed:"
+msgstr "Вечеринки разрешены:"
+
+#: tpl/user/booking-manage.php:221 tpl/user/booking-manage.php:239
+msgid "Cancel booking"
+msgstr ""
+
+#: tpl/user/booking-manage.php:250
+msgid "Reason"
+msgstr "Причина"
+
+#: tpl/user/booking-manage.php:251
+msgid "Select reason"
+msgstr "Выберите причину"
+
+#: tpl/user/booking-manage.php:253
+msgid "Illness"
+msgstr ""
+
+#: tpl/user/booking-manage.php:254
+msgid "Local competition preferred"
+msgstr ""
+
+#: tpl/user/booking-manage.php:255
+msgid "Other destination preferred"
+msgstr ""
+
+#: tpl/user/booking-manage.php:256
+msgid "Duplicate booking"
+msgstr ""
+
+#: tpl/user/booking-manage.php:257
+msgid "Flight / Train cancelled"
+msgstr ""
+
+#: tpl/user/booking-manage.php:258
+msgid "Change of business event"
+msgstr ""
+
+#: tpl/user/booking-manage.php:259
+msgid "Decided to stay home"
+msgstr ""
+
+#: tpl/user/booking-manage.php:267
+msgid "Please enter your comment or feedback here (optional)"
+msgstr ""
+
+#: tpl/user/booking-manage.php:275
+msgid "Please tell us a reason or a comment"
+msgstr ""
+
+#: tpl/user/booking-manage.php:282
+msgid "Sorry, an error occured. Please try again later."
+msgstr "Произошла ошибка."
+
+#: tpl/user/booking-manage.php:296
+msgid "Request has been sent."
+msgstr ""
+
+#: tpl/user/bookings-list-item.php:37
+msgid "Arrival:"
+msgstr "Заселение:"
+
+#: tpl/user/bookings-list-item.php:41
+msgid "Departure:"
+msgstr "Выселение:"
+
+#: tpl/user/bookings-list-item.php:46
+msgid "Confirmed at:"
+msgstr "Подтверждено:"
+
+#: tpl/user/bookings-list-item.php:50
+msgid "Code:"
+msgstr "Код:"
+
+#: tpl/user/bookings-list-item.php:55
+msgid "Total:"
+msgstr "Всего:"
+
+#: tpl/user/bookings-list-item.php:61
+msgid "Details"
+msgstr "Детально"
+
+#: tpl/user/bookings-list.php:12
+msgid "Сurrent"
+msgstr "Текущие"
+
+#: tpl/user/bookings-list.php:14
+msgid "Future"
+msgstr "Будущие"
+
+#: tpl/user/bookings-list.php:16
+msgid "Past"
+msgstr "Прошлые"
+
+#: tpl/user/bookings-list.php:18
+msgid "Cancelled"
+msgstr "Отменено"
+
+#: tpl/user/bookings-list.php:31
+msgid "Nothing yet"
+msgstr "Пока ничего нет"
+
+#: tpl/user/error-please-login.php:3
+msgid "Please log in"
+msgstr ""
+
+#: tpl/user/error-wishlist-empty.php:3
+msgid "Wishlist is empty"
+msgstr "Список пуст"
+
+#: tpl/user/wishlist-item.php:17
+msgid "Remove from wish list"
+msgstr "Удалить из списка"
+
+#: tpl/user/wishlist-item.php:34
+msgid "Persons:"
+msgstr "Человек:"
+
+#: tpl/user/wishlist-item.php:36
+msgid "Bedrooms:"
+msgstr "Спальни:"
+
+#: tpl/user/wishlist-item.php:38
+msgid "Baths:"
+msgstr "Ванные:"
+
+#: tpl/user/wishlist-item.php:40
+msgid "Area:"
+msgstr "Площадь:"
+
+#: admin/exopite-simple-options/assets/jquery.fine-uploader.min.js:3
+msgid " request for "
+msgstr " запрос "
+
+#: admin/exopite-simple-options/assets/jquery.fine-uploader.min.js:3
+msgid "Sending "
+msgstr "Отправка "
+
+#~ msgid "Select pages"
+#~ msgstr "Страницы"
+
+#~ msgid "Listing page"
+#~ msgstr "Страница листинга"
+
+#~ msgid "To show payment result"
+#~ msgstr "Чтобы показать результат оплаты"
+
+#~ msgid "Additional options"
+#~ msgstr "Дополнительно"
+
+#~ msgid "Locations selector"
+#~ msgstr "Выбор локации"
+
+#~ msgid "Shortened list of amenities"
+#~ msgstr "Сокращенный список удобств"
+
+#~ msgid "Other"
+#~ msgstr "Другое"
+
+#~ msgid "Show image preloader"
+#~ msgstr "Прелоадер картинок"
+
+#~ msgid "Show animated loader when loading images"
+#~ msgstr "Показывать анимированную картинку при загрузке изображений листинга"
+
+#~ msgid ""
+#~ "Copy the shortcode and place it on post, page, text, code widget, etc. "
+#~ "Refer the plugin documentation for more info about shortcodes and "
+#~ "parameters."
+#~ msgstr ""
+#~ "Скопируйте шорткод и разместите его в посте, странице, виджете, где "
+#~ "необходимо. Почитайте документацию к плагину, там описаны инструкции и "
+#~ "советы по применению."
+
+#~ msgid "Show payment result"
+#~ msgstr "Результат оплаты"
+
+#~ msgid ""
+#~ "This plugin uses the Bootstrap CSS framework. If there are any problems "
+#~ "or conflicts with the installed plugins or theme, you can disable the "
+#~ "loading of this framework."
+#~ msgstr ""
+#~ "Этот плагин использует фреймворк Bootstrap CSS. Вы можете отключить "
+#~ "загрузку Bootstrap, если другая тема или плагин используют и тоже его "
+#~ "подключают и вы наблюдаете какие-либо проблемы или конфликты по нему."
+
+#~ msgid "It can be useful for testing or troubleshooting"
+#~ msgstr ""
+#~ "Это может помочь в поиске проблем или тестированииplugin uses data "
+#~ "caching both on"
+
+#~ msgid ""
+#~ "The plugin uses data caching both on the Hostify API and WordPress side. "
+#~ "Sometimes during development and configuration process, this can disturb "
+#~ "or confuse."
+#~ msgstr ""
+#~ "Плагин использует кеширование данных как на стороне Hostify API, так и на "
+#~ "стороне WordPress. Иногда в процессе разработки и настройки это может "
+#~ "мешать или сбивать с толку."
+
+#~ msgid "string"
+#~ msgstr "строка"
+
+#~ msgid "array"
+#~ msgstr "массив"
+
+#~ msgid "number"
+#~ msgstr "число"
+
+#~ msgid "required"
+#~ msgstr "обязательно"
+
+#~ msgid "Examples:"
+#~ msgstr "Примеры:"
+
+#~ msgid "Hostify Booking Engine"
+#~ msgstr "Hostify Booking Engine"
+
+#~ msgid "General Options"
+#~ msgstr "Основные"
+
+#~ msgid "or listings search result"
+#~ msgstr "или результатов поиска"
+
+#~ msgid "List of Listings page, where is [hfy-listings] shortcode placed"
+#~ msgstr "Страница, где размещен шорткод [hfy-listings]"
+
+#~ msgid "separate one page"
+#~ msgstr "отдельная страница листинга"
+
+#~ msgid "Address of this page will be used in links to certain Listings"
+#~ msgstr ""
+#~ "Адрес этой страницы будет использован в линках на отдельные листинги"
+
+#~ msgid "Selected amenities (Listing)"
+#~ msgstr "Список удобств (листинг)"
+
+#~ msgid ""
+#~ "Define a list of amenities to show (IDs separated with a comma). The rest "
+#~ "will be hidden."
+#~ msgstr ""
+#~ "Список удобств для показа (ID через запятую), остальные будут скрыты."
+
+#~ msgid "Amenities with images"
+#~ msgstr "Удобства с картинками"
+
+#~ msgid "Amenities with images will be on top of the list"
+#~ msgstr "С картинками будут показаны в начале списка"
+
+#~ msgid "Do not load Bootstrap library by plugin"
+#~ msgstr "Не загружать Boostrap, который поставляется с плагином"
+
+#~ msgid "Selected amenities (Search)"
+#~ msgstr "Список удобств (поиск)"
+
+#~ msgid "Use selected amenities only in the advanced search form"
+#~ msgstr "Показывать только выбранные удобства в форме расширенного поиска"
+
+#~ msgid "List of selected amenities (ID separated by comma):"
+#~ msgstr "Список выбранных удобств (ID через запятую)"
+
+#~ msgid "List of Listings"
+#~ msgstr "Список листингов"
+
+#~ msgid "Payment form"
+#~ msgstr "Форма оплаты"
+
+#~ msgid "Payment result"
+#~ msgstr "Результат оплаты"
+
+#~ msgid "Help"
+#~ msgstr "Справка"
+
+#~ msgid "Pack'n'Play/travel crib"
+#~ msgstr "Детская кровать для путешествий"
+
+#~ msgid "Terrace"
+#~ msgstr "Терасса"
+
+#~ msgid "Telephone"
+#~ msgstr "Телефон"
+
+#~ msgid "Mirror"
+#~ msgstr "Зеркало"
+
+#~ msgid "Chair"
+#~ msgstr "Кресло"
+
+#~ msgid "Lamp"
+#~ msgstr "Лампа"
+
+#~ msgid "Desk"
+#~ msgstr "Стол"
+
+#~ msgid "Sofa"
+#~ msgstr "Софа"
+
+#~ msgid "Bidet"
+#~ msgstr "Биде"
+
+#~ msgid "Blender"
+#~ msgstr "Блендер"
+
+#~ msgid "Double sofa"
+#~ msgstr "Двойная софа"
+
+#~ msgid "Alarm Clock"
+#~ msgstr "Будильник"
+
+#~ msgid "Built-in wardrobes"
+#~ msgstr "Встроенные шкафы-купе"
+
+#~ msgid "Lounge"
+#~ msgstr "Гостиная"
+
+#~ msgid "TV (local channels only)"
+#~ msgstr "ТВ (локальное)"
+
+#~ msgid "Free Wireless Internet"
+#~ msgstr "Бесплатный Wi Fi"
+
+#~ msgid "Espresso-Machine"
+#~ msgstr "Эспресо машина"
+
+#~ msgid "Private parking"
+#~ msgstr "Частный паркинг"
+
+#~ msgid "Concierge"
+#~ msgstr "Консьерж"
+
+#~ msgid "Doctor on Call"
+#~ msgstr "Врач"
+
+#~ msgid "Spa"
+#~ msgstr "Спа"
+
+#~ msgid "Restaurant"
+#~ msgstr "Ресторан"
+
+#~ msgid "Safe"
+#~ msgstr "Сейф"
+
+#~ msgid "Sauna"
+#~ msgstr "Сауна"
+
+#~ msgid "Ask for smoking"
+#~ msgstr "Для курящих"
+
+#~ msgid "Handicapped Rooms/Facilities"
+#~ msgstr "Удобства для инвалидов"
+
+#~ msgid "Bowling"
+#~ msgstr "Боулинг"
+
+#~ msgid "Car necessary"
+#~ msgstr "Необходимость в автомобиле"
+
+#~ msgid "Gym in the building"
+#~ msgstr "Тренажерный зал в здании"
+
+#~ msgid "Courtyard"
+#~ msgstr "Двор"
+
+#~ msgid "Bicycle Rentals"
+#~ msgstr "Прокат велосипедов"
+
+#~ msgid "Fishing"
+#~ msgstr "Рыбалка"
+
+#~ msgid "Golf"
+#~ msgstr "Гольф"
+
+#~ msgid "Shopping Mall"
+#~ msgstr "Торговый центр"
+
+#~ msgid "Tennis"
+#~ msgstr "Теннис"
+
+#~ msgid "Sports - swimming"
+#~ msgstr "Спорт плавание"
+
+#~ msgid "Stereo"
+#~ msgstr "Стерео"
+
+#~ msgid "Game room"
+#~ msgstr "Игровая комната"
+
+#~ msgid "Horseback Riding"
+#~ msgstr "Верховая езда"
+
+#~ msgid "Parasailing"
+#~ msgstr "Парасейлинг"
+
+#~ msgid "Scuba Diving"
+#~ msgstr "Плавание с аквалангом"
+
+#~ msgid "Private pool"
+#~ msgstr "Личный бассейн"
+
+#~ msgid "Ocean View"
+#~ msgstr "Вид на океан"
+
+#~ msgid "Mountain View"
+#~ msgstr "Вид на горы"
+
+#~ msgid "Central Heating"
+#~ msgstr "Центральное отопление"
+
+#~ msgid "Water View"
+#~ msgstr "Вид на воду"
+
+#~ msgid "High speed Internet access"
+#~ msgstr "Высокоскоростной интернет"
+
+#~ msgid "Free cable internet"
+#~ msgstr "Бесплатный кабельный интернет"
+
+#~ msgid "Bathroom"
+#~ msgstr "Ванная"
+
+#~ msgid "Minibar"
+#~ msgstr "Минибар"
+
+#~ msgid "Air purifier"
+#~ msgstr "Очиститель воздуха"
+
+#~ msgid "Bar"
+#~ msgstr "Бар"
+
+#~ msgid "Garage"
+#~ msgstr "Гараж"
+
+#~ msgid "Ice Maker"
+#~ msgstr "Генератор льда"
+
+#~ msgid "Veranda"
+#~ msgstr "Веранда"
+
+#~ msgid "Ping-pong table"
+#~ msgstr "Стол для тенниса"
+
+#~ msgid "Fitness Room"
+#~ msgstr "Комната для фитнеса"
+
+#~ msgid "Business centre"
+#~ msgstr "Бизнес центр"
+
+#~ msgid "Breakfast Buffet"
+#~ msgstr "Шведский стол"
+
+#~ msgid "Meeting Room"
+#~ msgstr "Комната для совещаний"
+
+#~ msgid "Breakfast Room"
+#~ msgstr "Столовая"
+
+#~ msgid "Massage"
+#~ msgstr "Массаж"
+
+#~ msgid "Projector"
+#~ msgstr "Проектор"
+
+#~ msgid "Secretarial Service"
+#~ msgstr "Услуги секретаря"
+
+#~ msgid "Hi-Fi"
+#~ msgstr "Hi-Fi"
+
+#~ msgid "Printer"
+#~ msgstr "Принтер"
+
+#~ msgid "Wake-up Service"
+#~ msgstr "Услуга побудки"
+
+#~ msgid "Trouser Press"
+#~ msgstr "Пресс для брюк"
+
+#~ msgid "Currency Exchange"
+#~ msgstr "Обмен валюты"
+
+#~ msgid "24 Hour Security"
+#~ msgstr "Круглосуточная охрана"
+
+#~ msgid "Slippers"
+#~ msgstr "Тапочки"
+
+#~ msgid "Guarded parking"
+#~ msgstr "Охраняемый паркинг"
+
+#~ msgid "Fax Machine"
+#~ msgstr "Факс"
+
+#~ msgid "Children Area"
+#~ msgstr "Зона для детей"
+
+#~ msgid "Car Rental Desk"
+#~ msgstr "Услуги аренды авто"
+
+#~ msgid "Copy Service"
+#~ msgstr "Услуги копирования"
+
+#~ msgid "Multilingual"
+#~ msgstr "Несколько языков"
+
+#~ msgid "Poolside Snackbar"
+#~ msgstr "Закусочная у бассейна"
+
+#~ msgid "Paid cot on request"
+#~ msgstr "Платная детская кроватка по запросу"
+
+#~ msgid "Satellite TV"
+#~ msgstr "Спутниковое ТВ"
+
+#~ msgid "Luggage Storage Facilities"
+#~ msgstr "Камера хранения для багажа"
+
+#~ msgid "News Stand"
+#~ msgstr "Газетный киоск"
+
+#~ msgid "Beach"
+#~ msgstr "Пляж"
+
+#~ msgid "Radio"
+#~ msgstr "Радио"
+
+#~ msgid "Night Club"
+#~ msgstr "Ночной клуб"
+
+#~ msgid "Hotel shops"
+#~ msgstr "Магазин в гостинице"
+
+#~ msgid "Airport Pick-up Service"
+#~ msgstr "Трансфер из аэропорта"
+
+#~ msgid "Bathroom Telephone"
+#~ msgstr "Телефон в ванной"
+
+#~ msgid "Casino"
+#~ msgstr "Казино"
+
+#~ msgid "Solarium"
+#~ msgstr "Солярий"
+
+#~ msgid "Video game system"
+#~ msgstr "Видео игры"
+
+#~ msgid "Billiards/Pool Tables"
+#~ msgstr "Бильярд"
+
+#~ msgid "Fan"
+#~ msgstr "Фен"
+
+#~ msgid "Desk with lamp"
+#~ msgstr "Стол с лампой"
+
+#~ msgid "Shared Swimming Pool"
+#~ msgstr "Общий плавательный бассейн"
+
+#~ msgid "Small Balcony"
+#~ msgstr "Небольшой балкон"
+
+#~ msgid "Cooking hob"
+#~ msgstr "Варочная панель"
+
+#~ msgid "Extra Bed"
+#~ msgstr "Доп. кровать"
+
+#~ msgid "Squash"
+#~ msgstr "Сквош"
+
+#~ msgid "Diving"
+#~ msgstr "Дайвинг"
+
+#~ msgid "Ski Storage"
+#~ msgstr "Место для лыж"
+
+#~ msgid "Meal Plan - Bed and Breakfast"
+#~ msgstr "Кровать и завтрак"
+
+#~ msgid "Picnic Area/Tables"
+#~ msgstr "Место для пикника"
+
+#~ msgid "Indoor Pool"
+#~ msgstr "Закрытый бассейн"
+
+#~ msgid "Properties"
+#~ msgstr "Тип"
+
+#~ msgid "More"
+#~ msgstr "Больше"
+
+#~ msgid "Select City"
+#~ msgstr "Выбрать город"
+
+#~ msgid "Show listing location on map"
+#~ msgstr "Показывает географическое положение на карте"
+
+#~ msgid "SEARCH"
+#~ msgstr "Найти"
+
+#~ msgid "See all"
+#~ msgstr "Смотреть все"
+
+#~ msgid "Partner's API Key"
+#~ msgstr "Ваш API ключ"
+
+#~ msgid "Delete key"
+#~ msgstr "Удалить ключ"
+
+#~ msgid "Get your personal key here:"
+#~ msgstr "Получите ваш персональный ключ здесь:"
+
+#~ msgid "Your partner's account on Hostify"
+#~ msgstr "Ваш персональный аккаунт"
+
+#~ msgid ""
+#~ "Copy this shortcode and place anywhere on website: post, page, text or "
+#~ "code widget. Or just use the <b>Hostify Widgets</b> on %s"
+#~ msgstr ""
+#~ "Скопируйте этот шорткод и разместите а посте, странице или виджете. Или "
+#~ "просто используйте виджет %s"
+
+#~ msgid "Appearance &rarr; Widgets"
+#~ msgstr "странице управления виджетами"
+
+#~ msgid "Currency from"
+#~ msgstr "Отправляем"
+
+#~ msgid ""
+#~ "the selected option will be displayed by default on \"You Send\" field"
+#~ msgstr ""
+#~ "выбранная валюта будет показана по умолчанию в поле \"Вы отправите\""
+
+#~ msgid ""
+#~ "the selected option will be displayed by default on \"You Get\" field"
+#~ msgstr "выбранная валюта будет показана по умолчанию в поле \"Вы получите\""
+
+#~ msgid "Image"
+#~ msgstr "Картинка"
+
+#~ msgid "Use default logo"
+#~ msgstr "Использовать логотип по умолчанию:"
+
+#~ msgid "Use custom image"
+#~ msgstr "Показать другую картинку"
+
+#~ msgid "Select custom image"
+#~ msgstr "Выберите картинку"
+
+#~ msgid "Per-page settings"
+#~ msgstr "Страницы"
+
+#~ msgid "Show widget only on selected pages"
+#~ msgstr "Показывать виджет только на страницах, выбранных ниже"
+
+#~ msgid "If enabled, the settings below will be applied to the widget"
+#~ msgstr ""
+#~ "Если включено, указанные ниже настройки будут применены к виджету на "
+#~ "указанной странице"
+
+#~ msgid "Settings for page"
+#~ msgstr "Настройки для страницы"
+
+#~ msgid "Separate settings for selected page"
+#~ msgstr "Отдельные настройки для выбранной страницы"
+
+#~ msgid "Page"
+#~ msgstr "Страница"
+
+#~ msgid "Use custom defaults:"
+#~ msgstr "Использовать следующие значения по умолчанию:"
+
+#~ msgid "Colors and font"
+#~ msgstr "Цвет и шрифт"
+
+#~ msgid "Global colors"
+#~ msgstr "Общие цвета"
+
+#~ msgid "Use custom colors"
+#~ msgstr "Использовать другие цвета"
+
+#~ msgid "Use custom"
+#~ msgstr "Использовать выбранный"
+
+#~ msgid "Background"
+#~ msgstr "Фон"
+
+#~ msgid "Input/select label"
+#~ msgstr "Текст поля/списка"
+
+#~ msgid "Input/select background"
+#~ msgstr "Фон поля/списка"
+
+#~ msgid "Link color"
+#~ msgstr "Цвет ссылок"
+
+#~ msgid "Link hover color"
+#~ msgstr "Цвет ссылок при наведении"
+
+#~ msgid "Buttons"
+#~ msgstr "Кнопки"
+
+#~ msgid "Exchange type buttons"
+#~ msgstr "Выбор типа обмена"
+
+#~ msgid "Button label"
+#~ msgstr "Текст на кнопке"
+
+#~ msgid "Button background"
+#~ msgstr "Фон кнопки"
+
+#~ msgid "Font"
+#~ msgstr "Шрифт"
+
+#~ msgid "Custom font"
+#~ msgstr "Другой шрифт"
+
+#~ msgid "Use custom font"
+#~ msgstr "Использовать выбранный"
+
+#, fuzzy
+#~ msgid "Fieldset field"
+#~ msgstr "Выбрать файлы"
+
+#, fuzzy
+#~ msgid "Add new"
+#~ msgstr "Добавить"
+
+#~ msgid "Hostify Plugin Settings"
+#~ msgstr "Настройки плагина"
+
+#~ msgid "Exchange"
+#~ msgstr "Обменять"
+
+#~ msgid "Exchange now"
+#~ msgstr "Обменять"
+
+#~ msgid "Fixed Rate"
+#~ msgstr "Фиксированный курс"
+
+#~ msgid "You send"
+#~ msgstr "Вы отправите"
+
+#~ msgid "You get"
+#~ msgstr "Вы получите"
+
+#~ msgid "Expected rate"
+#~ msgstr "Ожидаемый рейт"
+
+#~ msgid "Pre step"
+#~ msgstr "Предварительный шаг"
+
+#~ msgid "Please be careful not to provide a smart contract as your"
+#~ msgstr "Пожалуйста, будьте внимательны, не передавайте смарт контракт"
+
+#~ msgid "payout address"
+#~ msgstr "в качестве вашего адреса"
+
+#~ msgid "Enter the recipient’s"
+#~ msgstr "Укажите адрес"
+
+#~ msgid "address"
+#~ msgstr "получателя"
+
+#~ msgid "+ Add refund address"
+#~ msgstr "+ Добавить адрес для возврата"
+
+#~ msgid "Remove refund address"
+#~ msgstr "Удалить адрес для возврата"
+
+#~ msgid "(optional)"
+#~ msgstr "(не обязательно)"
+
+#~ msgid "refund address"
+#~ msgstr "адрес возврата"
+
+#~ msgid ""
+#~ "In case something goes wrong during the exchange, we might need a refund "
+#~ "address so we can return your coins back to you"
+#~ msgstr ""
+#~ "Если во процессе обмена что-то пойдет не так, нам может потребоваться "
+#~ "адрес возврата, чтобы мы могли вернуть вам ваши средства"
+
+#~ msgid "estimated arrival"
+#~ msgstr "расчетное время доставки"
+
+#~ msgid "minutes"
+#~ msgstr "мин"
+
+#~ msgid "I've read and agree to"
+#~ msgstr "Я прочитал и согласен:"
+
+#~ msgid "Terms of Use"
+#~ msgstr "Условия использования"
+
+#~ msgid "Confirm"
+#~ msgstr "Подтверждение"
+
+#~ msgid "to address"
+#~ msgstr "на адрес"
+
+#~ msgid "Waiting for exchange"
+#~ msgstr "Ожидание обмена"
+
+#~ msgid "Sent to your wallet"
+#~ msgstr "Отправить на ваш кошелек"
+
+#~ msgid "Error during exchange."
+#~ msgstr "Возникла ошибка в процессе обмена."
+
+#~ msgid ""
+#~ "Funds for this transaction will be returned to the sender's address or "
+#~ "the specified refund address."
+#~ msgstr ""
+#~ "Средства по этой транзакции будут возвращены на адрес отправителя или на "
+#~ "указанный адрес."
+
+#~ msgid "Please contact support."
+#~ msgstr "Пожалуйста, свяжитесь со службой поддержки."
+
+#~ msgid "Exchange completed."
+#~ msgstr "Обмен завершен."

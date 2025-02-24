@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hostifybooking 1.0\n"
+"POT-Creation-Date: 2024-01-26 12:36+0200\n"
+"PO-Revision-Date: 2024-01-26 12:36+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: wpcs\n"
+
+msgid "24 hour check-in"
+msgstr "Check-in 24 horas"
+
+msgid "Accessible-height bed"
+msgstr "Cama com altura acessível"
+
+msgid "Accessible-height toilet"
+msgstr "Sanitário com altura acessível"
+
+msgid "Advanced search"
+msgstr "Pesquisa avançada"
+
+msgid "Air conditioning"
+msgstr "Ar condicionado"
+
+msgid "All photos"
+msgstr "Todas as fotos"
+
+msgid "Amenities"
+msgstr "Comodidades"
+
+msgid "Apartment"
+msgstr "Apartamento"
+
+msgid "Apply filters"
+msgstr "Aplicar filtros"
+
+msgid "Arrival"
+msgstr "Chegada"
+
+msgid "Available"
+msgstr "Disponível"
+
+msgid "Bathrooms"
+msgstr "Casas de banho"
+
+msgid "Bedrooms"
+msgstr "Quartos"
+
+msgid "Booked"
+msgstr "Reservado"
+
+msgid "Breakfast"
+msgstr "Pequeno-almoço"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "From"
+msgstr "A partir de"
+
+msgid "Gallery"
+msgstr "Galeria"
+
+msgid "Guests"
+msgstr "Hóspedes"
+
+msgid "House rules"
+msgstr "Regras da casa"
+
+msgid "Location"
+msgstr "Localização"
+
+msgid "month"
+msgstr "mês"
+
+msgid "Monthly"
+msgstr "Mensal"
+
+msgid "night"
+msgstr "noite"
+
+msgid "nights"
+msgstr "noites"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Payment"
+msgstr "Pagamento"
+
+msgid "Phone"
+msgstr "Telefone"
+
+msgid "Price"
+msgstr "Preço"
+
+msgid "Search"
+msgstr "Pesquisar"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Yes"
+msgstr "Sim"
