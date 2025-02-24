@@ -1,0 +1,15 @@
+{
+    "name": "hostify/booking-plugin",
+    "description": "Hostify Booking WordPress plugin",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.7",
+        "giacocorsiglia/wordpress-stubs": "^5.1",
+        "wp-coding-standards/wpcs": "^2.3",
+        "phpmd/phpmd": "@stable"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}

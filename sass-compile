@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./node_modules/.bin/node-sass --output-style compressed  ./src/sass/main.scss    >  ./public/res/main.css
+./node_modules/.bin/node-sass --output-style compressed  ./src/sass/bs.scss      >  ./public/res/bs.css
+./node_modules/.bin/node-sass --output-style compressed  ./src/sass/theme.scss   >  ./public/res/theme.css
